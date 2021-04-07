@@ -1,6 +1,6 @@
 # O impacto do distanciamento social em resposta à pandemia de COVID-19 e as internações hospitalares por influenza em crianças no Brasil 
 ## Contextualização
-<p align="center">
+<p align="right">
 O distanciamento social como medida de saúde pública para controlar a pandemia de COVID-19 pode ter afetado o fardo de outras doenças respiratórias, tendo, desta forma, impactado na incidência de hospitalizações por doenças respiratórias com sazonalidade conhecida, como a gripe (influenza, CID 10 - J11).
 
 A epidemiologia do vírus influenza é bem conhecida nas regiões Sul e Sudeste do Brasil, onde a sazonalidade está bem caracterizada, ocorrendo nos meses de outono e inverno, especialmente nos meses de maio a julho, no entanto casos esporádicos podem ser detectados em outros meses do ano.
@@ -9,12 +9,3 @@ Sabe-se que as crianças menores de 2 anos de idade apresentam maior morbidade, 
 
 No Brasil, as crianças estão fora da escola e as creches estão fechadas desde março de 2020, adicionado a isso, temos o uso de máscaras pela população como medida de prevenção à COVID-19. Considerando a repercussão dessas experiências sociais únicas na saúde infantil, esse estudo tem como objetivo avaliar o impacto do distanciamento social em resposta à pandemia de COVID-19 em internações hospitalares por influenza. 
 </p>
-
-
-source={{
-            html:
-              "<style>p{text-align:justify}</style>" +
-              "<p>" +
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus commodo tortor ut ipsum pharetra sodales. Praesent sed diam non lacus convallis dapibus. Sed vulputate erat risus, ac hendrerit eros egestas id. Etiam pellentesque auctor ipsum, non cursus nisi gravida sed. Ut eget pretium risus. Curabitur a lectus odio. Etiam felis urna, pharetra ut odio in, tristique suscipit tortor. Cras vitae risus odio. Etiam a leo elit. Duis molestie fermentum mi vitae pretium. Morbi luctus semper quam, et suscipit nisi convallis dictum. Fusce sit amet est dapibus, interdum ante non, lacinia metus. Donec at nulla non ante consectetur vulputate. Cras tristique porttitor ligula quis posuere. Integer nec laoreet felis, at tempor leo. Ut et convallis quam." +
-              "</p>"
-          }}
