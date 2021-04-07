@@ -30,7 +30,7 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 
 **Período observados:** 2015 a 2020.
 
-**Critérios de inclusão:** <p align="justify">Crianças de 0 a 4 anos, internadas em decorrência da Influenza no Serviço Único de Saúde (SUS) do Brasil, no período de 2015 a 2020.</p>
+**Critérios de inclusão:** <div align="justify"> Crianças de 0 a 4 anos, internadas em decorrência da Influenza no Serviço Único de Saúde (SUS) do Brasil, no período de 2015 a 2020.</div>
 
 
 > Link para vídeo de apresentação da proposta do projeto (máximo 3 minutos).
