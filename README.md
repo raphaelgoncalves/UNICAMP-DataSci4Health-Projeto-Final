@@ -11,7 +11,7 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 > | Aline Priscila Souza | 231612 | Fisioterapia|
 > | Brayan Crispiano Ksenhuck | 165192 | Engenharia Elétrica|
 > | Edmar Rodrigues Filho  | 166690 | Engenharia Elétrica|
-> | José Mario Alves Júnior | j216818 | Biomedicina|
+> | José Mario Alves Júnior | 216818 | Biomedicina|
 > | Raphael de Paiva Gonçalves  | 234839  | Ciência da Computação|
 
 
