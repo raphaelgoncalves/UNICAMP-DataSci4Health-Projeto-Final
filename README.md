@@ -1,5 +1,21 @@
-# <p align="justify"> O impacto do distanciamento social em resposta à pandemia de COVID-19 e as internações hospitalares por influenza em crianças no Brasil</p> 
-## Contextualização
+# Projeto: <p align="justify"> O impacto do distanciamento social em resposta à pandemia de COVID-19 e as internações hospitalares por influenza em crianças no Brasil</p>
+# Project: <p align="justify"> The impact of social distance in response to the COVID-19 pandemic and hospitalizations for influenza in children in Brazil</p>
+
+# Apresentação
+
+O presente projeto foi originado no contexto das atividades da disciplina de pós-graduação [*Ciência e Visualização de Dados em Saúde*](https://github.com/datasci4health/home), oferecida no primeiro semestre de 2021, na Unicamp.
+
+
+> |Nome  | RA | Especialização|
+> |--|--|--|
+> | Aline Priscila Souza | 231612 | Fisioterapia|
+> | Brayan Crispiano Ksenhuck | 165192 | Engenharia Elétrica|
+> | Edmar Rodrigues Filho  | 166690 | Engenharia Elétrica|
+> | José Mario Alves Júnior | j216818 | Biomedicina|
+> | Raphael de Paiva Gonçalves  | 234839  | Ciência da Computação|
+
+
+# Descrição Resumida do Projeto
 <p align="justify">O distanciamento social como medida de saúde pública para controlar a pandemia de COVID-19 pode ter afetado o fardo de outras doenças respiratórias, tendo, desta forma, impactado na incidência de hospitalizações por doenças respiratórias com sazonalidade conhecida, como a gripe (influenza, CID 10 - J11).</p>
   
 <p align="justify">A epidemiologia do vírus influenza é bem conhecida nas regiões Sul e Sudeste do Brasil, onde a sazonalidade está bem caracterizada, ocorrendo nos meses de outono e inverno, especialmente nos meses de maio a julho, no entanto casos esporádicos podem ser detectados em outros meses do ano.</p>
@@ -8,3 +24,20 @@
 
 <p align="justify">No Brasil, as crianças estão fora da escola e as creches estão fechadas desde março de 2020, adicionado a isso, temos o uso de máscaras pela população como medida de prevenção à COVID-19. Considerando a repercussão dessas experiências sociais únicas na saúde infantil, esse estudo tem como objetivo avaliar o impacto do distanciamento social em resposta à pandemia de COVID-19 em internações hospitalares por influenza.</p> 
 
+> Link para vídeo de apresentação da proposta do projeto (máximo 3 minutos).
+
+# Perguntas de Pesquisa
+<p align="justify">Qual o impacto do distanciamento social no Brasil em resposta à pandemia de COVID-19 na incidência de hospitalização de crianças por gripe (influenza)?</p>
+<p align="justify">Qual o impacto do distanciamento social no Brasil em resposta à pandemia de COVID-19 na mortalidade hospitalar de crianças por gripe (influenza)?</p>
+
+# Bases de Dados
+DataSUS
+
+# Metodologia
+> Em desenvolvimento...
+
+# Ferramentas
+> Em desenvolvimento...
+
+# Cronograma
+> Em desenvolvimento...
