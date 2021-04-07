@@ -1,6 +1,6 @@
 # O impacto do distanciamento social em resposta à pandemia de COVID-19 e as internações hospitalares por influenza em crianças no Brasil 
 ## Contextualização
-<p text-align="justify">
+<p text-align="right">
 O distanciamento social como medida de saúde pública para controlar a pandemia de COVID-19 pode ter afetado o fardo de outras doenças respiratórias, tendo, desta forma, impactado na incidência de hospitalizações por doenças respiratórias com sazonalidade conhecida, como a gripe (influenza, CID 10 - J11).
 
 A epidemiologia do vírus influenza é bem conhecida nas regiões Sul e Sudeste do Brasil, onde a sazonalidade está bem caracterizada, ocorrendo nos meses de outono e inverno, especialmente nos meses de maio a julho, no entanto casos esporádicos podem ser detectados em outros meses do ano.
