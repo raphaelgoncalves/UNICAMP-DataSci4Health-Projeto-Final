@@ -1,4 +1,4 @@
-<p align="justify"># O impacto do distanciamento social em resposta à pandemia de COVID-19 e as internações hospitalares por influenza em crianças no Brasil</p> 
+# <p align="justify"> O impacto do distanciamento social em resposta à pandemia de COVID-19 e as internações hospitalares por influenza em crianças no Brasil</p> 
 ## Contextualização
 <p align="justify">O distanciamento social como medida de saúde pública para controlar a pandemia de COVID-19 pode ter afetado o fardo de outras doenças respiratórias, tendo, desta forma, impactado na incidência de hospitalizações por doenças respiratórias com sazonalidade conhecida, como a gripe (influenza, CID 10 - J11).</p>
   
