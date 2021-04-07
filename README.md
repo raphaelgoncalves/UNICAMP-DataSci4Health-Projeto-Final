@@ -1,5 +1,5 @@
-# Projeto: <p align="justify"> O impacto do distanciamento social em resposta à pandemia de COVID-19 e as internações hospitalares por influenza em crianças no Brasil</p>
-# Project: <p align="justify"> The impact of social distance in response to the COVID-19 pandemic and hospitalizations for influenza in children in Brazil</p>
+# Projeto: <p align="justify"> O impacto do distanciamento social em resposta à pandemia de COVID-19 e as internações hospitalares por influenza em crianças no Brasil.</p>
+# Project: <p align="justify"> The impact of social distance in response to the COVID-19 pandemic and hospitalizations for influenza in children in Brazil.</p>
 
 # Apresentação
 
@@ -25,9 +25,13 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 <p align="justify">No Brasil, as crianças estão fora da escola e as creches estão fechadas desde março de 2020, adicionado a isso, temos o uso de máscaras pela população como medida de prevenção à COVID-19. Considerando a repercussão dessas experiências sociais únicas na saúde infantil, esse estudo tem como objetivo avaliar o impacto do distanciamento social em resposta à pandemia de COVID-19 em internações hospitalares por influenza.</p> 
 
 **Hipótese:** Redução na incidência de hospitalizações e a mortalidade por influenza em crianças de 0 a 4 anos, em decorrência do distanciamento social em resposta à pandemia de COVID-19.
+
 **População estudada:** Crianças de 0 a 4 anos.
+
 **Período observados:** 2015 a 2020.
+
 **Critérios de inclusão:** Crianças de 0 a 4 anos, internadas em decorrência da Influenza no Serviço Único de Saúde (SUS) do Brasil, no período de 2015 a 2020.
+
 
 > Link para vídeo de apresentação da proposta do projeto (máximo 3 minutos).
 
