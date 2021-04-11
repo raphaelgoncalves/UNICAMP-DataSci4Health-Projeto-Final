@@ -23,7 +23,7 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 <p align="justify">No Brasil, as crianças estiveram fora da pré-escola e de creches no ano de 2020, devido às adaptações necessárias ao enfrentamento da Covid-19. Considerando a repercussão dessas experiências sociais únicas na saúde infantil, esse estudo tem como objetivo, através da ciência de dados, avaliar o impacto do distanciamento social em resposta à pandemia de COVID-19 em internações hospitalares por influenza. Para isso, será utilizada a metodologia CRISP-DM, com ferramentas de Python, com um dataset de opendata disponibilizado pelo governo federal do Brasil, Datasus.</p>
 
 ## Hipótese
-<p align="justify">Redução na incidência de hospitalizações e a mortalidade por influenza em crianças de 0 a 4 anos, em decorrência do distanciamento social em resposta à pandemia de COVID-19.</p>
+<p align="justify">Houve redução na incidência de hospitalizações e a mortalidade por influenza em crianças de 0 a 4 anos, em decorrência do distanciamento social em resposta à pandemia de COVID-19.</p>
 
 ## População estudada
 Crianças de 0 a 4 anos.
