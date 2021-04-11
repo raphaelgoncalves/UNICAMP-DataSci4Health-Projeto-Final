@@ -35,7 +35,7 @@ Crianças de 0 a 4 anos.
 <p align="justify"> Crianças de 0 a 4 anos, internadas em decorrência da Influenza no Serviço Único de Saúde (SUS) do Brasil, no período de 2015 a 2020.</p>
 
 ## Vídeo de apresentação
-> Link para vídeo de apresentação da proposta do projeto (máximo 3 minutos).
+[*Vídeo de Apresentação do Projeto*](https://drive.google.com/file/d/1Ncb4lrw9qq2EVpo1PS115lLMc4epxSyP/view?usp=sharing)
 
 # Perguntas de Pesquisa
 <p align="justify">Qual o impacto do distanciamento social no Brasil em resposta à pandemia de COVID-19 na incidência de hospitalização de crianças por gripe (influenza)?</p>
@@ -45,10 +45,10 @@ Crianças de 0 a 4 anos.
 [*DataSUS*](http://www2.datasus.gov.br/DATASUS/index.php?area=02)
 
 # Metodologia
-> CRISP-DM
+CRISP-DM
 
 # Ferramentas
-> Python, jupyter notebook, pacote anaconda 
+Python, jupyter notebook, pacote anaconda 
 
 # Cronograma
-> Em desenvolvimento com base na metodogia CRISP-DM.
+Em desenvolvimento com base na metodogia CRISP-DM.
