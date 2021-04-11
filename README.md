@@ -47,10 +47,10 @@ Crianças de 0 a 4 anos.
 [*DataSUS*](http://www2.datasus.gov.br/DATASUS/index.php?area=02)
 
 # Metodologia
-> Em desenvolvimento...
+> CRISP-DM
 
 # Ferramentas
-> Em desenvolvimento...
+> Python, jupyter notebook, pacote anaconda 
 
 # Cronograma
-> Em desenvolvimento...
+> Em desenvolvimento com base na metodogia CRISP-DM.
