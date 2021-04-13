@@ -43,6 +43,7 @@ Crianças de 0 a 4 anos.
 
 # Bases de Dados
 [*DataSUS*](http://www2.datasus.gov.br/DATASUS/index.php?area=02)
+> Epidemiológicas e Morbidade > Geral, por local de internação - a partir de 2008 > Abrangencia Geográfica: Brasil por região e unidade da federação > Linha: Faixa Etária 1 > Coluna: Ano/mes atendimento > Conteúdo: Internações > Selecionar o Periodo > Lista Morb CID-10: Influenza > Faixa Etária 1: Escolher faixa etária
 
 # Metodologia
 CRISP-DM
