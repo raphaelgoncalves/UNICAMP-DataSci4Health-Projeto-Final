@@ -49,7 +49,7 @@ Crianças de 0 a 4 anos.
 CRISP-DM
 
 # Ferramentas
-Python, jupyter notebook, pacote anaconda 
+Python, Bibliotecas Pandas, Numpy, Statistics, Matplotlib e o Google Colab;
 
 # Cronograma
-Em desenvolvimento com base na metodogia CRISP-DM.
+[*Cronograma*](https://docs.google.com/document/d/19WYZ1MMnKAfzT6nPk9wERh0kRPu2wLS0aIIbGzgJ2CM/edit?usp=sharing)
