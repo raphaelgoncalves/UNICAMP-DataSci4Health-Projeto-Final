@@ -50,7 +50,7 @@ Crianças de 0 a 4 anos.
 
 Base de Dados | Endereço na Web | Resumo descritivo
 ----- | ----- | -----
-SIH - DATASUS | http://www2.datasus.gov.br/DATASUS/index.php?area=02 | <p align="justify">A finalidade inicial do Sistema de Informações Hospitalares - SIH foi a de controle administrativo-financeiro para pagamento aos serviços hospitalares contratados pelo Instituto Nacional de Assistência Médica e Previdência Social(INAMPS). Para mais informações acesse a [*wiki-DATASUS*](https://wiki.saude.gov.br/sih/index.php/P%C3%A1gina_principal)</p>
+SIH - DATASUS | [*SIH-DATASUS*](http://www2.datasus.gov.br/DATASUS/index.php?area=0203&id=6926) | <p align="justify">A finalidade inicial do Sistema de Informações Hospitalares - SIH foi a de controle administrativo-financeiro para pagamento aos serviços hospitalares contratados pelo Instituto Nacional de Assistência Médica e Previdência Social(INAMPS). Para mais informações acesse a [*wiki-DATASUS*](https://wiki.saude.gov.br/sih/index.php/P%C3%A1gina_principal)</p>
 
 > Faça uma descrição sobre o que concluiu sobre esta base. Sugere-se que respondam perguntas ou forneçam informações indicadas a seguir:
 > * Qual o esquema/dicionário desse banco (o formato é livre)?
