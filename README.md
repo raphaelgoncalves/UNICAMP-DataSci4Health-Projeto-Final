@@ -42,28 +42,24 @@ Crianças de 0 a 4 anos.
 <p align="justify">Qual o impacto do distanciamento social no Brasil em resposta à pandemia de COVID-19 na mortalidade hospitalar de crianças por gripe (influenza)?</p>
 
 # Bases de Dados e Evolução
-> Elencar bases de dados estudadas e/ou utilizadas no projeto, organizando em duas partes. Primeiro aquelas que foram estudadas, mas não serão usadas e em seguida as bases adotadas.
 
 ## Bases Estudadas e Adotadas
-
-> Para cada base, coloque uma mini-tabela no modelo a seguir e depois detalhamento sobre como ela foi analisada/usada, conforme exemplo a seguir.
 
 > Base de Dados | Endereço na Web | Resumo descritivo
 > -- | -- | --
 > SIH - DATASUS | [*SIH-DATASUS*](http://www2.datasus.gov.br/DATASUS/index.php?area=0203&id=6926) | <p align="justify">O Sistema de Informações Hospitalares - SIH, registra dados de todos os atendimentos provenientes de internações hospitalares que foram financiadas pelo SUS. Mensalmente, estes dados são disponibilizados como OpenData para acesso via DATASUS. Para mais informações acesse a [*wiki-DATASUS*](https://wiki.saude.gov.br/sih/index.php/P%C3%A1gina_principal)</p>
 
-> Faça uma descrição sobre o que concluiu sobre esta base. Sugere-se que respondam perguntas ou forneçam informações indicadas a seguir:
 > * Qual o esquema/dicionário desse banco (o formato é livre)?
+> O SIH - DATASUS não disponibiliza um arquivo específico com o dicionário dos dados, porém no dataset os metadados são inseridos.
 > * O que descobriu sobre esse banco?
+> Devido ao fato do banco tratar de informações necessárias para a execução de pagamentos financeiros, a base tem um processeo de atualização bem definido e constante. Em contato com os Administradores responsáveis pelos dados, o Núcleo de Informações da Atenção à Saúde, do Ministério da Saúde, confirmamos que os dados não são consolidados e podem ter alterações em seus registros em até 12 meses após o mês de referência, por exemplo, os dados de Janeiro/2020 podem ser atualizados até Dezembro/2020, sendo após este periodo, considerados consolidados. 
 > * Quais as transformações e tratamentos (e.g., dados faltantes e limpeza) feitos?
+> 
 > * Apresente aqui uma Análise Exploratória (inicial) sobre esta base.
 
 ## Integração entre Bases e Análise Exploratória
 
 > Descreva etapas de integração de fontes de dados e apresente a seguir uma análise exploratória que envolva ambas.
-
-[*DataSUS*](http://www2.datasus.gov.br/DATASUS/index.php?area=02)
-> Epidemiológicas e Morbidade > Geral, por local de internação - a partir de 2008 > Abrangencia Geográfica: Brasil por região e unidade da federação > Linha: Faixa Etária 1 > Coluna: Ano/mes atendimento > Conteúdo: Internações > Selecionar o Periodo > Lista Morb CID-10: Influenza > Faixa Etária 1: Escolher faixa etária
 
 # Metodologia
 CRISP-DM
