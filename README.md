@@ -41,24 +41,10 @@ Crianças de 0 a 4 anos.
 <p align="justify">Qual o impacto do distanciamento social no Brasil em resposta à pandemia de COVID-19 na incidência de hospitalização de crianças por gripe (influenza)?</p>
 <p align="justify">Qual o impacto do distanciamento social no Brasil em resposta à pandemia de COVID-19 na mortalidade hospitalar de crianças por gripe (influenza)?</p>
 
-## Bases de Dados e Evolução
+# Bases de Dados e Evolução
 > Elencar bases de dados estudadas e/ou utilizadas no projeto, organizando em duas partes. Primeiro aquelas que foram estudadas, mas não serão usadas e em seguida as bases adotadas.
 
-### Bases Estudadas mas Não Adotadas
-
-> Para cada base, coloque uma mini-tabela no modelo a seguir e depois detalhamento sobre como ela foi analisada/usada, conforme exemplo a seguir.
-
-Base de Dados | Endereço na Web | Resumo descritivo
------ | ----- | -----
-Título da Base | http://base1.org/ | Breve resumo (duas ou três linhas) sobre a base.
-
-> Faça uma descrição sobre o que concluiu sobre esta base. Sugere-se que respondam perguntas ou forneçam informações indicadas a seguir:
-> * O que descobriu sobre esse banco?
-> * Quais as transformações e tratamentos (e.g., dados faltantes e limpeza) feitos?
-> * Por que este banco não foi adotado?
-> * Apresente aqui uma Análise Exploratória (inicial) sobre esta base.
-
-### Bases Estudadas e Adotadas
+## Bases Estudadas e Adotadas
 
 > Para cada base, coloque uma mini-tabela no modelo a seguir e depois detalhamento sobre como ela foi analisada/usada, conforme exemplo a seguir.
 
@@ -72,10 +58,10 @@ Título da Base | http://base1.org/ | Breve resumo (duas ou três linhas) sobre 
 > * Quais as transformações e tratamentos (e.g., dados faltantes e limpeza) feitos?
 > * Apresente aqui uma Análise Exploratória (inicial) sobre esta base.
 
-### Integração entre Bases e Análise Exploratória
+## Integração entre Bases e Análise Exploratória
 
 > Descreva etapas de integração de fontes de dados e apresente a seguir uma análise exploratória que envolva ambas.
->
+
 [*DataSUS*](http://www2.datasus.gov.br/DATASUS/index.php?area=02)
 > Epidemiológicas e Morbidade > Geral, por local de internação - a partir de 2008 > Abrangencia Geográfica: Brasil por região e unidade da federação > Linha: Faixa Etária 1 > Coluna: Ano/mes atendimento > Conteúdo: Internações > Selecionar o Periodo > Lista Morb CID-10: Influenza > Faixa Etária 1: Escolher faixa etária
 
