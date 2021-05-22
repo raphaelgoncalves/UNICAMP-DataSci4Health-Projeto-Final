@@ -58,7 +58,7 @@ Crianças de 0 a 4 anos.
 > Quais as transformações e tratamentos (e.g., dados faltantes e limpeza) feitos?
  - Limpeza de dados a partir da extração de metadados que estavam junto aos .csv dos datasets;
  - Preparação de dados a partir de reconfigurações de datas;
- - Preparação de dados a partir da reoganização da disposição das features no .csv para melhor análise gráfica e estatística;
+ - Preparação de dados a partir da transposição das  features linhas em colunas no .csv para gerar um data frame;
  - Preparação dos dados a partir da mudança da separação por ";" no dataset .csv para ",".
 
 > Apresente aqui uma Análise Exploratória (inicial) sobre esta base.
