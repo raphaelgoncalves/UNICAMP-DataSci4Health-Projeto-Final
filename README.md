@@ -62,6 +62,7 @@ Crianças de 0 a 4 anos.
  - Preparação dos dados a partir da mudança da separação por ";" no dataset .csv para ",".
 
 > Apresente aqui uma Análise Exploratória (inicial) sobre esta base.
+
 A análise exploratória inicial foi realizada em um notebook executável e pode ser acessada no link a seguir:
 
 [*Analise Exploratória*](https://colab.research.google.com/drive/15yIhW_BfnWs5OOBj1EyC9R7L3YGWI04B)
