@@ -1,1 +1,0 @@
-## Entendimento do Negócio
