@@ -56,8 +56,15 @@ Crianças de 0 a 4 anos.
 <p align="justify">Devido ao fato do banco tratar de informações necessárias para a execução de pagamentos financeiros, a base tem um processo de atualização bem definido e constante. Em contato com os Administradores responsáveis pelos dados, o Núcleo de Informações da Atenção à Saúde, do Ministério da Saúde, confirmamos que os dados não são consolidados e podem ter alterações em seus registros em até 12 meses após o mês de referência, por exemplo, os dados de Janeiro/2020 podem ser atualizados até Dezembro/2020, sendo após este periodo, considerados consolidados. </p>
 
 > Quais as transformações e tratamentos (e.g., dados faltantes e limpeza) feitos?
+ - Limpeza de dados a partir da extração de metadados que estavam junto aos .csv dos datasets;
+ - Preparação de dados a partir de reconfigurações de datas;
+ - Preparação de dados a partir da reoganização da disposição das features no .csv para melhor análise gráfica e estatística;
+ - Preparação dos dados a partir da mudança da separação por ";" no dataset .csv para ",".
 
 > Apresente aqui uma Análise Exploratória (inicial) sobre esta base.
+A análise exploratória inicial foi realizada em um notebook executável e pode ser acessada no link a seguir:
+
+[*Analise Exploratória*](https://colab.research.google.com/drive/15yIhW_BfnWs5OOBj1EyC9R7L3YGWI04B)
 
 ## Integração entre Bases e Análise Exploratória
 
