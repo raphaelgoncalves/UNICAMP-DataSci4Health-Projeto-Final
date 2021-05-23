@@ -20,10 +20,10 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
   
 <p align="justify">A epidemiologia do vírus influenza é bem conhecida nas regiões Sul e Sudeste do Brasil, onde a sazonalidade está bem caracterizada, ocorrendo nos meses de outono e inverno, especialmente nos meses de maio a julho, no entanto casos esporádicos podem ser detectados em outros meses do ano.</p>
 
-<p align="justify">No Brasil, as crianças estiveram fora da pré-escola e de creches no ano de 2020, devido às adaptações necessárias ao enfrentamento da Covid-19. Considerando a repercussão dessas experiências sociais únicas na saúde infantil, esse estudo tem como objetivo, através da ciência de dados, avaliar o impacto do distanciamento social em resposta à pandemia de COVID-19 em internações hospitalares por influenza. Para isso, será utilizada a metodologia CRISP-DM, com ferramentas de Python, com um dataset de opendata disponibilizado pelo governo federal do Brasil, Datasus.</p>
+<p align="justify">No Brasil, as crianças estiveram fora da pré-escola e de creches no ano de 2020, devido às adaptações necessárias ao enfrentamento da Covid-19. Considerando a repercussão dessas experiências sociais únicas na saúde infantil, esse estudo tem como objetivo, através da ciência de dados, avaliar o impacto do distanciamento social em resposta à pandemia de COVID-19 em internações hospitalares por influenza. Para isso, será utilizada a metodologia KDD, com ferramentas de Python, com 2 datasets de opendata disponibilizado pelo governo federal do Brasil, Datasus.</p>
 
 ## Hipótese
-<p align="justify">Houve redução na incidência de hospitalizações e a mortalidade por influenza em crianças de 0 a 4 anos, em decorrência do distanciamento social em resposta à pandemia de COVID-19.</p>
+<p align="justify">Houve redução na incidência de hospitalizações por influenza em crianças de 0 a 4 anos, em decorrência do distanciamento social em resposta à pandemia de COVID-19.</p>
 
 ## População estudada
 Crianças de 0 a 4 anos.
@@ -70,13 +70,13 @@ A análise exploratória inicial foi realizada em um notebook executável e pode
 
 ## Integração entre Bases e Análise Exploratória
 
-> Descreva etapas de integração de fontes de dados e apresente a seguir uma análise exploratória que envolva ambas.
+A integração entre os datasets foi a partir da soma dos números de casos por mês, tendo em vista que o layout dos datasets é pre-processado de forma idêntica. Para este processo foi realizada soma e transposição linha versus coluna dos dados via excel.
 
 # Metodologia
 A CRISP-DM não será mais utilizada, pois iria gerar redundância de documentação do projeto com esta documentação para as entregas, baseada em KDD.
 
 # Ferramentas
-Python, Bibliotecas Pandas, Numpy, Statistics, Matplotlib e o Google Colab;
+Python, Bibliotecas Pandas, Numpy, Statistics, Matplotlib, Excel e o Google Colab;
 
 # Cronograma
 [*Cronograma*](https://docs.google.com/document/d/19WYZ1MMnKAfzT6nPk9wERh0kRPu2wLS0aIIbGzgJ2CM/edit?usp=sharing)
