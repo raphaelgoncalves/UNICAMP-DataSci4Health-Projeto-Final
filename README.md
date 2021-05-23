@@ -66,7 +66,7 @@ Incialmente, cabe ressaltar que os dados já vieram pré-processados, pois os da
 
 A análise exploratória inicial foi realizada em um notebook executável e pode ser acessada no link a seguir:
 
-[*Analise Exploratória*](https://colab.research.google.com/drive/15yIhW_BfnWs5OOBj1EyC9R7L3YGWI04B)
+[*Analise Exploratória*](https://colab.research.google.com/drive/15yIhW_BfnWs5OOBj1EyC9R7L3YGWI04B?usp=sharing)
 
 ## Integração entre Bases e Análise Exploratória
 
