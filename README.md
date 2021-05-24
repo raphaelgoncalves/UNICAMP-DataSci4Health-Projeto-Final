@@ -39,7 +39,6 @@ Crianças de 0 a 4 anos.
 
 # Perguntas de Pesquisa
 <p align="justify">Qual o impacto do distanciamento social no Brasil em resposta à pandemia de COVID-19 na incidência de hospitalização de crianças por gripe (influenza)?</p>
-<p align="justify">Qual o impacto do distanciamento social no Brasil em resposta à pandemia de COVID-19 na mortalidade hospitalar de crianças por gripe (influenza)?</p>
 
 # Bases de Dados e Evolução
 
