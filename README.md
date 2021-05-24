@@ -70,7 +70,9 @@ Incialmente, cabe ressaltar que os dados já vieram pré-processados, pois os da
 <p align="justify">É apresentado a partir de codebook em planilha.</p>
 
 > O que descobriu sobre esse banco?
-<p align="justify"> O indice de isolamento é uma série temporal, contruído com base nas medidas de isolamento decretadas por governos. Este último é "composto por seis variáveis: restrições a eventos e atividades culturais, esportivas ou religiosas; restrições ao funcionamento de bares e restaurantes; restrições ao comércio em geral; restrições sobre atividades industriais; suspensão de aulas; e restrições ao transporte terrestre, fluvial e marítimo de passageiros." </p> [*Moraes-RF-de-2020-IPEA*](google.com.br). 
+<p align="justify"> O indice de isolamento é uma série temporal, contruído com base nas medidas de isolamento decretadas por governos. Este último é "composto por seis variáveis: restrições a eventos e atividades culturais, esportivas ou religiosas; restrições ao funcionamento de bares e restaurantes; restrições ao comércio em geral; restrições sobre atividades industriais; suspensão de aulas; e restrições ao transporte terrestre, fluvial e marítimo de passageiros." (Moraes, RF, de, 2020 - IPEA)  </p> 
+[*Moraes-RF-de-2020-IPEA*](https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=35462&Itemid=4/)
+[*Moraes-RF-de-2020-IPEA*](https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=35462&Itemid=4). 
 Para saber mais sobre o indice de isolamento social, acesse o relatório técnico do IPEA [*Nota Técnica-2020-Maio-Número19-Dinte*](https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=35567).
 
 > Quais as transformações e tratamentos (e.g., dados faltantes e limpeza) feitos?
