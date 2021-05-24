@@ -67,10 +67,10 @@ Incialmente, cabe ressaltar que os dados já vieram pré-processados, pois os da
 > Indice de Isolamento Social | [*Indice-IPEA*](https://medidas-covidbr-iptsp.shinyapps.io/painel/) | <p align="justify">O Indice de isolamento social foi criado pelo IPEA em parceria com o Ministério da Economia e UFG, a partir das medidas de isolamento social governamentais para enfrentamento da COVID-19</p>
 
 > Qual o esquema/dicionário desse banco (o formato é livre)?
-<p align="justify">Não disponibilizado</p>
+<p align="justify">É apresentado a partir de codebook em planilha.</p>
 
 > O que descobriu sobre esse banco?
-<p align="justify">O indice de isolamento é uma série temporal, contruído com base nas medidas de isolamento decretadas por governos. Este último é "composto por seis variáveis: restrições a eventos e atividades culturais, esportivas ou religiosas; restrições ao funcionamento de bares e restaurantes; restrições ao comércio em geral; restrições sobre atividades industriais; suspensão de aulas; e restrições ao transporte terrestre, fluvial e marítimo de passageiros." [*Moraes-RF-de-2020-IPEA*](https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=35462&Itemid=4). Para saber mais sobre o indice de isolamento social, acesse o relatório técnico do IPEA [*Nota Técnica-2020-Maio-Número19-Dinte*](https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=35567)</p>
+<p align="justify"> O indice de isolamento é uma série temporal, contruído com base nas medidas de isolamento decretadas por governos. Este último é "composto por seis variáveis: restrições a eventos e atividades culturais, esportivas ou religiosas; restrições ao funcionamento de bares e restaurantes; restrições ao comércio em geral; restrições sobre atividades industriais; suspensão de aulas; e restrições ao transporte terrestre, fluvial e marítimo de passageiros." </p>[*Moraes-RF-de-2020-IPEA*](https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=35462&Itemid=4). Para saber mais sobre o indice de isolamento social, acesse o relatório técnico do IPEA [*Nota Técnica-2020-Maio-Número19-Dinte*](https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=35567).
 
 > Quais as transformações e tratamentos (e.g., dados faltantes e limpeza) feitos?
 Os dados foram extraidos a partir do seguinte [*link*](https://docs.google.com/spreadsheets/d/1a5_eloeGJkTWC6V4J39Qbbbm2wMPQlzcTeBxPy-hu80/edit#gid=0) disponibilizado pelo IPEA. A seguir foi realizada: 
