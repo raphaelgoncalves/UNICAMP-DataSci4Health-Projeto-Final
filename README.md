@@ -55,6 +55,7 @@ Crianças de 0 a 4 anos.
 <p align="justify">Devido ao fato do banco tratar de informações necessárias para a execução de pagamentos financeiros, a base tem um processo de atualização bem definido e constante. Em contato com os Administradores responsáveis pelos dados, o Núcleo de Informações da Atenção à Saúde, do Ministério da Saúde, confirmamos que os dados não são consolidados e podem ter alterações em seus registros em até 12 meses após o mês de referência, por exemplo, os dados de Janeiro/2020 podem ser atualizados até Dezembro/2020, sendo após este periodo, considerados consolidados. Para fins de acesso os dados do DataSus são disponibilizados via Tabwin, uma ferramenta que gera views de grandes datasets, a partir de filtros via interface gráfica.</p>
 
 > Quais as transformações e tratamentos (e.g., dados faltantes e limpeza) feitos?
+
 Incialmente, cabe ressaltar que os dados já vieram pré-processados, pois os dados deste estudo são provenientes do Tabwin do DataSus. 
  - Limpeza de dados a partir da extração de metadados que estavam junto aos .csv dos datasets;
  - Preparação de dados a partir de reconfigurações de datas;
