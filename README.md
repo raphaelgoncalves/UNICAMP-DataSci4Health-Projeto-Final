@@ -80,8 +80,9 @@ Para saber mais sobre o indice de isolamento social, acesse Nota Técnica-2020-M
 
 > Quais as transformações e tratamentos (e.g., dados faltantes e limpeza) feitos?
 
-Os dados foram extraidos a partir do seguinte [*link*](https://docs.google.com/spreadsheets/d/1a5_eloeGJkTWC6V4J39Qbbbm2wMPQlzcTeBxPy-hu80/edit#gid=0) disponibilizado pelo IPEA. A seguir foi realizada: 
- A Preparação de dados a partir de análises de tipos de dados e reconfigurações/conversões de datas.
+Os dados foram extraidos a partir do seguinte [*link*](https://docs.google.com/spreadsheets/d/1a5_eloeGJkTWC6V4J39Qbbbm2wMPQlzcTeBxPy-hu80/edit#gid=0) disponibilizado pelo IPEA. A seguir foi realizada:
+
+- Preparação de dados a partir de análises de tipos de dados e reconfigurações/conversões de datas.
 
 > Apresente aqui uma Análise Exploratória (inicial) sobre esta base.
 
