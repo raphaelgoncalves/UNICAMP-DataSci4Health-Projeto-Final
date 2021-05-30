@@ -56,7 +56,7 @@ Crianças de 0 a 4 anos.
 
 > Quais as transformações e tratamentos (e.g., dados faltantes e limpeza) feitos?
 
-Incialmente, cabe ressaltar que os dados já vieram pré-processados, pois os dados deste estudo são provenientes do Tabwin do DataSus. 
+Inicialmente, cabe ressaltar que os dados já vieram pré-processados, pois os dados deste estudo são provenientes do Tabwin do DataSus. 
  - Limpeza de dados a partir da extração de metadados que estavam junto aos .csv dos datasets;
  - Preparação de dados a partir de reconfigurações de datas;
  - Preparação de dados a partir da transposição das  features linhas em colunas no .csv para gerar um data frame;
