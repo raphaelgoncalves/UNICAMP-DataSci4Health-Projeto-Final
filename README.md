@@ -65,7 +65,9 @@ Inicialmente, cabe ressaltar que os dados já vieram pré-processados, pois os d
 
 > Base de Dados | Endereço na Web | Resumo descritivo
 > -- | -- | --
-> Indice de Isolamento Social | [*Indice-IPEA*](https://medidas-covidbr-iptsp.shinyapps.io/painel/) | <p align="justify">O Indice de isolamento social foi criado pelo IPEA em parceria com o Ministério da Economia e UFG, a partir das medidas de isolamento social governamentais para enfrentamento da COVID-19</p>
+> Indice de Isolamento Social | [*Indice-IPEA*](https://medidas-covidbr-iptsp.shinyapps.io/painel/) | <p align="justify">
+
+O Indice de isolamento social foi criado pelo IPEA em parceria com o Ministério da Economia e UFG, a partir das medidas de isolamento social governamentais para enfrentamento da COVID-19</p>
 
 > Qual o esquema/dicionário desse banco (o formato é livre)?
 <p align="justify">É apresentado a partir de codebook em planilha.</p>
