@@ -40,25 +40,11 @@ Link para slides da apresentação final do projeto
 
 <p align="justify"> A gripe é uma doença aguda do sistema respiratório, causada pelo vírus Influenza, tendo alta capacidade de transmissão e distribuição global. A transmissão do vírus Influenza entre humanos ocorre pela via respiratória por meio de secreções como aerossóis, gotículas ou por contato direto da mucosa. São poucas as opções disponíveis para o seu controle. Dentre essas, a vacinação constitui a forma mais eficaz para o controle da doença e de suas complicações1. 
 <p align="justify"> No Brasil, segundo dados obtidos pelo Projeto VigiGripe1, em 2003 verificou-se que a influenza apresentava pico de atividade entre os meses de maio e setembro, e que, no entanto casos, esporádicos eram detectados em outros meses do ano. O vírus apresenta altas taxas de mutação, o que resulta frequentemente na inserção de novas variantes virais na comunidade, para as quais a população não apresenta imunidade.1 A campanha de vacinação contra a influenza é alterada anualmente, com base nas recomendações da Organização Mundial da Saúde (OMS), tendo sido realizada no periodo de abril a maio, nos anos de 2015 a 20172,3,4, no periodo de abril a junho em 20185, de abril a maio em 20196, e entre os meses de março e maio em 20207. 
-<p align="justify"> 8-	Nascimento et. al (2020) avaliaram através de um estudo clínico transversal, a prevalência de hospitalizações por doenças respiratórias na infância, entre elas infecções respiratórias de vias aéreas superiores, asma / bronquite, bronquiolite e pneumonia, e o impacto do isolamento social por COVID-19 no comportamento sazonal dessas doenças. Os autores encontraram na redução inesperada do número de hospitalizações na população pediátrica durante este período, e concluíram que as medidas de isolamento social adotadas durante a pandemia COVID-19 podem ter interferido na sazonalidade dessas doenças respiratórias infantis.8 
- 
- 
- De acordo com alguns estudos, no ano de 2020 o número de casos diminuiu significativamente com a chegada da COVID-19, o que poderia ser explicado por diferentes fatores, entre eles, o aumento no número de doses da vacina contra a Influenza e o maior estimulo a vacinação contra a gripe, e a implementação de protocolos de segurança contra a COVID-19. No Brasil, as crianças estiveram fora da pré-escola e de creches no ano de 2020, devido às adaptações necessárias ao enfrentamento da COVID-19.
+<p align="justify"> Nascimento et. al (2020) avaliaram através de um estudo clínico transversal, a prevalência de hospitalizações por doenças respiratórias na infância, entre elas infecções respiratórias de vias aéreas superiores, asma / bronquite, bronquiolite e pneumonia, e o impacto do isolamento social por COVID-19 no comportamento sazonal dessas doenças. Os autores encontraram na redução inesperada do número de hospitalizações na população pediátrica durante este período, e concluíram que as medidas de isolamento social adotadas durante a pandemia COVID-19 podem ter interferido na sazonalidade dessas doenças respiratórias infantis.8 
+ <p align="justify">  No Brasil, as crianças estiveram fora da pré-escola e de creches no ano de 2020, devido às adaptações necessárias ao enfrentamento da COVID-19.
 Dessa forma, o distanciamento social, o uso de mascaras, a suspensão de aulas em escolas e os protocolos de enfrentamento adotados como medida de saúde pública para controlar a pandemia de COVID-19 podem ter afetado a incidência de hospitalizações por doenças respiratórias, como a gripe (influenza, CID 10 - J11). 
-<p align="justify"> Considerando a repercussão dessas experiências sociais únicas na saúde infantil, esse estudo tem como objetivo, através da ciência de dados, avaliar o impacto do distanciamento social em resposta à pandemia de COVID-19 em internações hospitalares de crianças por influenza.
- Contextualização do projeto
-
-Caracterização do problema
-
-Motivação
-
-Relevância
-
-Trabalhos relacionados
-
-Indicação (bastante resumida) da análise proposta
-
-Indicação (bastante resumida) dos resultados alcançados
+ <p align="justify"> Considerando a repercussão dessas experiências sociais únicas na saúde infantil, esse estudo tem como objetivo, através da ciência de dados, avaliar o impacto do distanciamento social em resposta à pandemia de COVID-19 em internações hospitalares de crianças por influenza.
+ 
  ## Hipótese
 <p align="justify">Houve redução na incidência de hospitalizações por influenza em crianças de 0 a 4 anos, em decorrência do distanciamento social em resposta à pandemia de COVID-19.</p>
 
