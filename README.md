@@ -32,7 +32,7 @@ Considerando a repercussão dessas experiências sociais únicas na saúde infan
 Link para slides de apresentação da proposta do projeto.
 
 Slides da Apresentação Final
-Link para slides da apresentação final do projeto
+https://docs.google.com/presentation/d/1s2u8UMjPYv8Wt1XQXc1LJa0I2yuEOJ-tSRMhBdDBJLs/edit?usp=sharing
 
 # Introdução e Referenciais de Teóricos
 
