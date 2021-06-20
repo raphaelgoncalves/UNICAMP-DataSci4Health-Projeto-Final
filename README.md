@@ -17,7 +17,7 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 
 # Descrição Resumida do Projeto
 
-falar mais sobre o projeto em si 
+falar mais sobre o projeto em si... 
 Considerando a repercussão dessas experiências sociais únicas na saúde infantil, esse estudo tem como objetivo, através da ciência de dados, avaliar o impacto do distanciamento social em resposta à pandemia de COVID-19 em internações hospitalares de crianças por influenza. Para isso, será utilizada a metodologia KDD, com ferramentas de Python, com 2 datasets de opendata disponibilizado pelo governo federal do Brasil, Datasus.
 
 # Vídeos do Projeto
