@@ -20,13 +20,13 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 falar mais sobre o projeto em si 
 Considerando a repercussão dessas experiências sociais únicas na saúde infantil, esse estudo tem como objetivo, através da ciência de dados, avaliar o impacto do distanciamento social em resposta à pandemia de COVID-19 em internações hospitalares de crianças por influenza. Para isso, será utilizada a metodologia KDD, com ferramentas de Python, com 2 datasets de opendata disponibilizado pelo governo federal do Brasil, Datasus.
 
-##Vídeos do Projeto
+# Vídeos do Projeto
 
  Vídeo da Proposta
 
  Vídeo da Apresentação Final
  
- ##Slides do Projeto
+# Slides do Projeto
 
  Slides da Proposta
 Link para slides de apresentação da proposta do projeto.
@@ -34,7 +34,7 @@ Link para slides de apresentação da proposta do projeto.
 Slides da Apresentação Final
 Link para slides da apresentação final do projeto
 
-##Introdução e Referenciais de Teóricos
+# Introdução e Referenciais de Teóricos
 
 <p align="justify"> A gripe é uma doença aguda do sistema respiratório, causada pelo vírus Influenza, tendo alta capacidade de transmissão e distribuição global. A transmissão do vírus Influenza entre humanos ocorre pela via respiratória por meio de secreções como aerossóis, gotículas ou por contato direto da mucosa. São poucas as opções disponíveis para o seu controle. Dentre essas, a vacinação constitui a forma mais eficaz para o controle da doença e de suas complicações1. 
 <p align="justify"> No Brasil, segundo dados obtidos pelo Projeto VigiGripe1, em 2003 verificou-se que a influenza apresentava pico de atividade entre os meses de maio e setembro, e que, no entanto casos, esporádicos eram detectados em outros meses do ano. O vírus apresenta altas taxas de mutação, o que resulta frequentemente na inserção de novas variantes virais na comunidade, para as quais a população não apresenta imunidade.1 A campanha de vacinação contra a influenza é alterada anualmente, com base nas recomendações da Organização Mundial da Saúde (OMS), tendo sido realizada no periodo de abril a maio, nos anos de 2015 a 20172,3,4, no periodo de abril a junho em 20185, de abril a maio em 20196, e entre os meses de março e maio em 20207. 
