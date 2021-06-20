@@ -46,7 +46,6 @@ Dessa forma, o distanciamento social, o uso de mascaras, a suspensão de aulas e
 # Perguntas de Pesquisa
 <p align="justify">Qual o impacto do distanciamento social no Brasil em resposta à pandemia de COVID-19 na incidência de hospitalização de crianças por gripe (influenza)?</p>
 
-# Objetivos do Projeto
  
  ## Hipótese
 <p align="justify">Houve redução na incidência de hospitalizações por influenza em crianças de 0 a 4 anos, em decorrência do distanciamento social em resposta à pandemia de COVID-19.</p>
