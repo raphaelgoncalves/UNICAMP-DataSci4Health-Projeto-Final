@@ -43,6 +43,11 @@ Link para slides da apresentação final do projeto
 Dessa forma, o distanciamento social, o uso de mascaras, a suspensão de aulas em escolas e os protocolos de enfrentamento adotados como medida de saúde pública para controlar a pandemia de COVID-19 podem ter afetado a incidência de hospitalizações por doenças respiratórias, como a gripe (influenza, CID 10 - J11). 
  <p align="justify"> Considerando a repercussão dessas experiências sociais únicas na saúde infantil, esse estudo tem como objetivo, através da ciência de dados, avaliar o impacto do distanciamento social em resposta à pandemia de COVID-19 em internações hospitalares de crianças por influenza.
  
+# Perguntas de Pesquisa
+<p align="justify">Qual o impacto do distanciamento social no Brasil em resposta à pandemia de COVID-19 na incidência de hospitalização de crianças por gripe (influenza)?</p>
+
+# Objetivos do Projeto
+ 
  ## Hipótese
 <p align="justify">Houve redução na incidência de hospitalizações por influenza em crianças de 0 a 4 anos, em decorrência do distanciamento social em resposta à pandemia de COVID-19.</p>
 
@@ -58,8 +63,6 @@ Crianças de 0 a 4 anos.
 ## Vídeo de apresentação
 [*Vídeo de Apresentação do Projeto*](https://drive.google.com/file/d/1Ncb4lrw9qq2EVpo1PS115lLMc4epxSyP/view?usp=sharing)
 
-# Perguntas de Pesquisa
-<p align="justify">Qual o impacto do distanciamento social no Brasil em resposta à pandemia de COVID-19 na incidência de hospitalização de crianças por gripe (influenza)?</p>
 
 # Bases de Dados e Evolução
 
