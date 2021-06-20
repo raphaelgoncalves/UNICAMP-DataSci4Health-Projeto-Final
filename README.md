@@ -16,11 +16,9 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 
 
 # Descrição Resumida do Projeto
-<p align="justify"> A gripe é uma doença aguda do sistema respiratório, causada pelo vírus Influenza, tendo alta capacidade de transmissão e distribuição global. A transmissão do vírus Influenza entre humanos ocorre pela via respiratória por meio de secreções como aerossóis, gotículas ou por contato direto da mucosa. São poucas as opções disponíveis para o seu controle. Dentre essas, a vacinação constitui a forma mais eficaz para o controle da doença e de suas complicações. 
-<p align="justify"> No Brasil, verifica-se que a influenza apresenta pico de atividade entre os meses de maio e setembro, no entanto casos esporádicos podem ser detectados em outros meses do ano. Assim, a época mais indicada para a vacinação corresponde aos meses de março e abril. O vírus apresenta altas taxas de mutação, o que resulta frequentemente na inserção de novas variantes virais na comunidade, para as quais a população não apresenta imunidade. 
-<p align="justify"> De acordo com alguns estudos, no ano de 2020 o número de casos diminuiu significativamente com a chegada da COVID-19, o que poderia ser explicado por diferentes fatores, entre eles, o aumento no número de doses da vacina contra a Influenza e o maior estimulo a vacinação contra a gripe, e a implementação de protocolos de segurança contra a COVID-19. No Brasil, as crianças estiveram fora da pré-escola e de creches no ano de 2020, devido às adaptações necessárias ao enfrentamento da COVID-19.
-Dessa forma, o distanciamento social, o uso de mascaras, a suspensão de aulas em escolas e os protocolos de enfrentamento adotados como medida de saúde pública para controlar a pandemia de COVID-19 podem ter afetado a incidência de hospitalizações por doenças respiratórias, como a gripe (influenza, CID 10 - J11). 
-<p align="justify"> Considerando a repercussão dessas experiências sociais únicas na saúde infantil, esse estudo tem como objetivo, através da ciência de dados, avaliar o impacto do distanciamento social em resposta à pandemia de COVID-19 em internações hospitalares de crianças por influenza. Para isso, será utilizada a metodologia KDD, com ferramentas de Python, com 2 datasets de opendata disponibilizado pelo governo federal do Brasil, Datasus.
+
+falar mais sobre o projeto em si 
+Considerando a repercussão dessas experiências sociais únicas na saúde infantil, esse estudo tem como objetivo, através da ciência de dados, avaliar o impacto do distanciamento social em resposta à pandemia de COVID-19 em internações hospitalares de crianças por influenza. Para isso, será utilizada a metodologia KDD, com ferramentas de Python, com 2 datasets de opendata disponibilizado pelo governo federal do Brasil, Datasus.
 
 ##Vídeos do Projeto
 
