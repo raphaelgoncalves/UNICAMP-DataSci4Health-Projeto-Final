@@ -172,6 +172,4 @@ plt.show();
 > O que poderia ser melhorado se houvesse mais tempo?
 
 # Referências Bibliográficas
-> Lista de artigos, links e referências bibliográficas.
->
-> Fiquem à vontade para escolher o padrão de referenciamento preferido pelo grupo.
+> 
