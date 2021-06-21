@@ -174,17 +174,17 @@ plt.show();
 # Referências Bibliográficas
 > 1-	FORLEO-NETO, E. et al. Influenza.  Rev Soc Bras Med Trop, Uberaba, v. 36, n. 2, p. 267-274, 2003.
 
-> 2-	Informe Técnico. Campanha Nacional de Vacinação contra a Influenza, 2015. Disponível em: http://portalarquivos.saude.gov.br/images/pdf/2015/marco/30/Informe-Cp-Influenza---25-03-2015-FINAL.pdf
+> 2-	Ministério da Saúde. Informe Técnico. Campanha Nacional de Vacinação contra a Influenza, 2015. Disponível em: http://portalarquivos.saude.gov.br/images/pdf/2015/marco/30/Informe-Cp-Influenza---25-03-2015-FINAL.pdf
 
-> 3-	Informe Técnico. Campanha Nacional de Vacinação contra a Influenza, 2016. Disponível em: https://sbim.org.br/images/files/informe_cp_influenza-_11_03_2016_final.pdf
+> 3-	Ministério da Saúde. Informe Técnico. Campanha Nacional de Vacinação contra a Influenza, 2016. Disponível em: https://sbim.org.br/images/files/informe_cp_influenza-_11_03_2016_final.pdf
 
-> 4-	Informe Técnico. Campanha Nacional de Vacinação contra a Influenza, 2017. Disponível em: https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/chamadas/resumo_operacional_campanha_vacinacao_contra_influenza_2017_1493734874.pdf
+> 4-	Ministério da Saúde. Informe Técnico. Campanha Nacional de Vacinação contra a Influenza, 2017. Disponível em: https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/chamadas/resumo_operacional_campanha_vacinacao_contra_influenza_2017_1493734874.pdf
 
-> 5-	Informe Técnico. Campanha Nacional de Vacinação contra a Influenza, 2018. Disponível em: https://portalarquivos2.saude.gov.br/images/pdf/2018/abril/18/Informe-Cp-Influenza---01-03-2018-Word-final-28.03.18%20final.pdf
+> 5-	Ministério da Saúde. Informe Técnico. Campanha Nacional de Vacinação contra a Influenza, 2018. Disponível em: https://portalarquivos2.saude.gov.br/images/pdf/2018/abril/18/Informe-Cp-Influenza---01-03-2018-Word-final-28.03.18%20final.pdf
 
-> 6-	Informe Técnico. Campanha Nacional de Vacinação contra a Influenza, 2019. Disponível em: https://portalarquivos2.saude.gov.br/images/pdf/2019/fevereiro/28/Informe-Cp-Influenza-28-02-2019-final.pdf
+> 6-	Ministério da Saúde. Informe Técnico. Campanha Nacional de Vacinação contra a Influenza, 2019. Disponível em: https://portalarquivos2.saude.gov.br/images/pdf/2019/fevereiro/28/Informe-Cp-Influenza-28-02-2019-final.pdf
 
-> 7-	Informe Técnico. Campanha Nacional de Vacinação contra a Influenza, 2020. Disponível em: https://www.saude.go.gov.br/files/imunizacao/influenza/InformeTecnicoInfluenza.2020.pdf
+> 7-	Ministério da Saúde. Informe Técnico. Campanha Nacional de Vacinação contra a Influenza, 2020. Disponível em: https://www.saude.go.gov.br/files/imunizacao/influenza/InformeTecnicoInfluenza.2020.pdf
 
 > 8-	Nascimento MS, Baggio DM, Fascina LP, do Prado C. Impact of social isolation due to COVID-19 on the seasonality of pediatric respiratory diseases. PLoS One. 2020 Dec 11;15(12):e0243694. doi: 10.1371/journal.pone.0243694. Disponível em: https://pubmed.ncbi.nlm.nih.gov/33306735/
 
