@@ -20,7 +20,7 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 <p align="justify">O distanciamento social como medida de saúde pública para controlar a pandemia de COVID-19 pode ter afetado o fardo de outras doenças respiratórias, tendo, desta forma, impactado na incidência de hospitalizações por doenças respiratórias com sazonalidade conhecida, como a gripe (influenza, CID 10 - J11).
 <p align="justify">Desta forma, esse estudo teve  como objetivo avaliar o impacto do distanciamento social em resposta à pandemia de COVID-19 em internações hospitalares por influenza, entre os anos de 2015 a 2020, através de uma análise de série temporal.
 <p align="justify">Os dados referentes às internações foram obtidos na plataforma DATA SUS, e os dados referentes ao índice de isolamento social na Brasil foram obtidos na base Ipea - Instituto de Pesquisa Econômica Aplicada.
-<p align="justify">A análise exploratória dos dados mostrou uma sazonalidade da influenza nesta população entre os meses de Março e Julho.  Embora tenha  ocorrido uma queda brusca no número de internações a partir de março de 2020 , foi encontrada uma correlação  fraca [0.59] entre o número de hospitalizações por influenza e o índice de isolamento social [p=0.08].
+<p align="justify">A análise exploratória dos dados mostrou uma sazonalidade da influenza nesta população entre os meses de Março e Julho.  Embora tenha  ocorrido uma queda brusca no número de internações a partir de março de 2020 , foi encontrada uma correlação  fraca [ρ= 0.59] entre o número de hospitalizações por influenza e o índice de isolamento social [p=0.08].
 
 
 # Vídeos do Projeto
