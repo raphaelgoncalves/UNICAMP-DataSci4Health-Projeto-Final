@@ -173,6 +173,7 @@ plt.show();
 
 # Referências Bibliográficas
 > 1-	FORLEO-NETO, E. et al. Influenza.  Rev Soc Bras Med Trop, Uberaba, v. 36, n. 2, p. 267-274, 2003.
+
 > 2-	Informe Técnico. Campanha Nacional de Vacinação contra a Influenza, 2015. Disponível em: http://portalarquivos.saude.gov.br/images/pdf/2015/marco/30/Informe-Cp-Influenza---25-03-2015-FINAL.pdf
 > 3-	Informe Técnico. Campanha Nacional de Vacinação contra a Influenza, 2016. Disponível em: https://sbim.org.br/images/files/informe_cp_influenza-_11_03_2016_final.pdf
 > 4-	Informe Técnico. Campanha Nacional de Vacinação contra a Influenza, 2017. Disponível em: https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/chamadas/resumo_operacional_campanha_vacinacao_contra_influenza_2017_1493734874.pdf
