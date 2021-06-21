@@ -117,7 +117,9 @@ A análise exploratória inicial foi realizada em um notebook executável e pode
 
 ## Integração entre Bases e Análise Exploratória
 
-A integração entre os datasets foi a partir da soma dos números de casos por mês, tendo em vista que o layout dos datasets é pre-processado de forma idêntica. Para este processo foi realizada soma e transposição linha versus coluna dos dados via excel.
+A integração entre os datasets extraidos do DATASUS, por ano, foi a partir da soma dos números de casos por mês, tendo em vista que o layout dos datasets é pre-processado de forma idêntica. Para este processo foi realizada soma e transposição linha versus coluna dos dados via excel.
+
+Para permitir a realização da correlação entre as séries temporais de isolamento social com os dados do DATASUS em 2020, foi necessário realizar a transformação do indice diário de isolamento em um índice mensal, a partir da média das porcentagens diárias de isolamento.   
 
 # Metodologia
 A CRISP-DM não será mais utilizada, pois iria gerar redundância de documentação do projeto com esta documentação para as entregas, baseada em KDD.
