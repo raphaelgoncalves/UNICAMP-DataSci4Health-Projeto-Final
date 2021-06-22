@@ -27,11 +27,9 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 
 [*Vídeo de Apresentação do Projeto*](https://drive.google.com/file/d/1Ncb4lrw9qq2EVpo1PS115lLMc4epxSyP/view?usp=sharing)
 
- [*Vídeo da Apresentação Final*](LINK)
+[*Vídeo da Apresentação Final*](LINK)
  
-# Slides do Projeto
-
- Slides da Proposta
+# Slides da Apresentação Final
 [*Slides da Apresentação Final*](https://docs.google.com/presentation/d/1s2u8UMjPYv8Wt1XQXc1LJa0I2yuEOJ-tSRMhBdDBJLs/edit?usp=sharing)
 
 # Introdução e Referenciais de Teóricos
