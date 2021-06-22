@@ -25,15 +25,13 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 
 # Vídeos do Projeto
 
- Vídeo da Proposta
+[*Vídeo de Apresentação do Projeto*](https://drive.google.com/file/d/1Ncb4lrw9qq2EVpo1PS115lLMc4epxSyP/view?usp=sharing)
 
- Vídeo da Apresentação Final
+ [*Vídeo da Apresentação Final*](LINK)
  
 # Slides do Projeto
 
  Slides da Proposta
-Link para slides de apresentação da proposta do projeto.
-
 [*Slides da Apresentação Final*](https://docs.google.com/presentation/d/1s2u8UMjPYv8Wt1XQXc1LJa0I2yuEOJ-tSRMhBdDBJLs/edit?usp=sharing)
 
 # Introdução e Referenciais de Teóricos
@@ -62,7 +60,7 @@ Crianças de 0 a 4 anos.
 <p align="justify"> Crianças de 0 a 4 anos, internadas em decorrência da Influenza no Serviço Único de Saúde (SUS) do Brasil, no período de 2015 a 2020.</p>
 
 ## Vídeo de apresentação
-[*Vídeo de Apresentação do Projeto*](https://drive.google.com/file/d/1Ncb4lrw9qq2EVpo1PS115lLMc4epxSyP/view?usp=sharing)
+
 
 
 # Bases de Dados e Evolução
