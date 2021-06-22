@@ -87,7 +87,7 @@ Inicialmente, cabe ressaltar que os dados já vieram pré-processados, pois os d
 <p align="justify">É apresentado a partir de codebook em planilha.</p>
 
 > O que descobriu sobre esse banco?
-<p align="justify"> O indice de isolamento é uma série temporal, contruído com base nas medidas de isolamento decretadas por governos. O indice é "composto por seis variáveis: restrições a eventos e atividades culturais, esportivas ou religiosas; restrições ao funcionamento de bares e restaurantes; restrições ao comércio em geral; restrições sobre atividades industriais; suspensão de aulas; e restrições ao transporte terrestre, fluvial e marítimo de passageiros." (Moraes, RF, de, 2020 - IPEA)</p>
+<p align="justify"> O indice de isolamento é uma série temporal, construída com base nas medidas de isolamento decretadas por governos. O indice é "composto por seis variáveis: restrições a eventos e atividades culturais, esportivas ou religiosas; restrições ao funcionamento de bares e restaurantes; restrições ao comércio em geral; restrições sobre atividades industriais; suspensão de aulas; e restrições ao transporte terrestre, fluvial e marítimo de passageiros." (Moraes, RF, de, 2020 - IPEA)</p>
 
 [*Moraes-2020*](https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=35462&Itemid=4/)
 
@@ -110,10 +110,10 @@ A análise exploratória inicial foi realizada em um notebook executável e pode
 
 A integração entre os datasets extraidos do DATASUS, por ano, foi a partir da soma dos números de casos por mês, tendo em vista que o layout dos datasets é pre-processado de forma idêntica. Para este processo foi realizada soma e transposição linha versus coluna dos dados via excel.
 
-Para permitir a realização da correlação entre as séries temporais de isolamento social com os dados do DATASUS em 2020, foi necessário realizar a transformação do indice diário de isolamento em um índice mensal, a partir da média das porcentagens diárias de isolamento.   
+Para permitir a realização da correlação entre as séries temporais de isolamento social com os dados do DATASUS em 2020, foi necessário realizar a transformação do índice diário de isolamento em um índice mensal, a partir da média das porcentagens diárias de isolamento.   
 
 # Metodologia
-A CRISP-DM não será mais utilizada, pois iria gerar redundância de documentação do projeto com esta documentação para as entregas, baseada em KDD.
+A metodologia utilizada será baseada em KDD.
 
 # Ferramentas
 Python, Bibliotecas Pandas, Numpy, Statistics, Matplotlib, Excel e o Google Colab;
@@ -123,23 +123,21 @@ Python, Bibliotecas Pandas, Numpy, Statistics, Matplotlib, Excel e o Google Cola
 
 # Análises Realizadas
 > Descrição detalhada das análises realizadas.
->
->
->
+ A partir da obtenção, pré-processamento e integração dos dados do SIH-DATASUS e do IPEA, iniciou-se a análise exploratória dos dados, os quais, estavam organizados em séries temporais(ST). Nesta perspectiva, foi necessário compreender as particularidades deste sub-domínio estatístico vasto das ST. Sobre séries temporais, compreendemos a importância dos processos de conversões de datas, decomposição da ST em tendência, sazonalidade e residual, análise de estacionariedade, autocorrelação e o uso de modelos preditivos de autoregressão e suas variações(AR, ARMA, ARIMA).
+ Iniciamos as análises com a realização de um processo exploratório, desenvolvido em um notebook colab com Python e bibliotecas para ciência de dados (pandas, numpy, matplotlib, scipy, seaborn, datetime, statsmodels e dentre outras). A análise exploratória dividiu-se em 3 partes:
+ 1) DATASUS - Importação, Pré-Processamento e Visualização dos dados;
+ 2) Indice de Isolamento Social no Brasil 2020-2021 - Importação, Pré-Processamento e Visualização dos dados
+ 3) Correlação entre Séries Temporais;
+ 4) Conclusões.
+ Na primeira etapa, realizamos a importação dos .csv do DATASUS, os quais já haviam passado por uma etapa do pré-processamento, usando a ferramenta excel, com a limpeza de metadados, integração e transposições, realizadas em mais de 5 testes distintos, a fim de verificar o melhor formato para importação dos dados no notebook. Em seguida, já com os dados importados no notebook, foi realizada outra etapa de pré-processamento, envolvendo entendimento dos tipos de dados do dataset e conversões de data. A próxima anaálise desta etapa envolveu a visualização de dados, com o desenvolvimento de gráficos da série temporal completa e Gráfico de sobreposição das séries temporais.
+ Ainda na primeira etapa, foi realizada a análise estatística da serie temporal DATASUS......
+
+
+
 >Relate aqui também a evolução do projeto: possíveis problemas enfrentados e possíveis mudanças de trajetória. Relatar o processo para se alcançar os resultados é tão importante quanto os resultados.
 >
 >
 >
-> Nesta seção ou na seção de Resultados podem aparecer destaques de código como indicado a seguir. Note que foi usada uma técnica de highlight de código, que envolve colocar o nome da linguagem na abertura de um trecho com `~~~`, tal como `~~~python`.
->
-> Os destaques de código devem ser trechos pequenos de poucas linhas, que estejam diretamente ligados a alguma explicação. Não utilize trechos extensos de código. Se algum código funcionar online (tal como um Jupyter Notebook), aqui pode haver links. No caso do Jupyter, preferencialmente para o Binder abrindo diretamente o notebook em questão.
-
-~~~python
-df = pd.read_excel("/content/drive/My Drive/Colab Notebooks/dataset.xlsx");
-sns.set(color_codes=True);
-sns.distplot(df.Hemoglobin);
-plt.show();
-~~~
 
 ## Ferramentas
 > Panorama das ferramentas utilizadas incluindo discussão sobre o uso das mesmas
