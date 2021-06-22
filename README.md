@@ -123,14 +123,18 @@ Python, Bibliotecas Pandas, Numpy, Statistics, Matplotlib, Excel e o Google Cola
 
 # Análises Realizadas
 > Descrição detalhada das análises realizadas.
- A partir da obtenção, pré-processamento e integração dos dados do SIH-DATASUS e do IPEA, iniciou-se a análise exploratória dos dados, os quais, estavam organizados em séries temporais(ST). Nesta perspectiva, foi necessário compreender as particularidades deste sub-domínio estatístico vasto das ST. Sobre séries temporais, compreendemos a importância dos processos de conversões de datas, decomposição da ST em tendência, sazonalidade e residual, análise de estacionariedade, autocorrelação e o uso de modelos preditivos de autoregressão e suas variações(AR, ARMA, ARIMA).
- Iniciamos as análises com a realização de um processo exploratório, desenvolvido em um notebook colab com Python e bibliotecas para ciência de dados (pandas, numpy, matplotlib, scipy, seaborn, datetime, statsmodels e dentre outras). A análise exploratória dividiu-se em 3 partes:
+
+<p align="justify"> A partir da obtenção, pré-processamento e integração dos dados do SIH-DATASUS e do IPEA, iniciou-se a análise exploratória dos dados, os quais, estavam organizados em séries temporais(ST). Nesta perspectiva, foi necessário compreender as particularidades deste sub-domínio estatístico vasto das ST. Sobre séries temporais, compreendemos a importância dos processos de conversões de datas, decomposição da ST em tendência, sazonalidade e residual, análise de estacionariedade, autocorrelação e o uso de modelos preditivos de autoregressão e suas variações(AR, ARMA, ARIMA). </p>
+ 
+<p align="justify"> Iniciamos as análises com a realização de um processo exploratório, desenvolvido em um notebook colab com Python e bibliotecas para ciência de dados (pandas, numpy, matplotlib, scipy, seaborn, datetime, statsmodels e dentre outras). A análise exploratória dividiu-se em 3 partes: </p>
  1) DATASUS - Importação, Pré-Processamento e Visualização dos dados;
  2) Indice de Isolamento Social no Brasil 2020-2021 - Importação, Pré-Processamento e Visualização dos dados
  3) Correlação entre Séries Temporais;
  4) Conclusões.
- Na primeira etapa, realizamos a importação dos .csv do DATASUS, os quais já haviam passado por uma etapa do pré-processamento, usando a ferramenta excel, com a limpeza de metadados, integração e transposições, realizadas em mais de 5 testes distintos, a fim de verificar o melhor formato para importação dos dados no notebook. Em seguida, já com os dados importados no notebook, foi realizada outra etapa de pré-processamento, envolvendo entendimento dos tipos de dados do dataset e conversões de data. A próxima anaálise desta etapa envolveu a visualização de dados, com o desenvolvimento de gráficos da série temporal completa e Gráfico de sobreposição das séries temporais.
- Ainda na primeira etapa, foi realizada a análise estatística da serie temporal DATASUS......
+
+<p align="justify"> Na primeira etapa, realizamos a importação dos .csv do DATASUS, os quais já haviam passado por uma etapa do pré-processamento, usando a ferramenta excel, com a limpeza de metadados, integração e transposições, realizadas em mais de 5 testes distintos, a fim de verificar o melhor formato para importação dos dados no notebook. Em seguida, já com os dados importados no notebook, foi realizada outra etapa de pré-processamento, envolvendo entendimento dos tipos de dados do dataset e conversões de data. A próxima anaálise desta etapa envolveu a visualização de dados, com o desenvolvimento de gráficos da série temporal completa e Gráfico de sobreposição das séries temporais. </p>
+ 
+<p align="justify"> Ainda na primeira etapa, foi realizada a análise estatística da serie temporal DATASUS......
 
 
 
