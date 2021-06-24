@@ -155,7 +155,8 @@ Python, Bibliotecas Pandas, Numpy, Statistics, Matplotlib, Excel e o Google Cola
 <p align="justify"> O principal resultado obtido foi o da correlação e p-valor(two-sided) entre o numero de casos de internações por influenza em crianças de 0 a 4 anos em 2020 e o indice de isolamento social em decorrencia da covid-19. Os resultados das análises indicaram uma correlação de spearman intermediária (0,58), sem significância estatistica (0,08).</p>
 
 <p align="justify"> Em seguida, o resultado mais importante foi o de comparação entre a curva do modelo preditivo ARIMA e a curva real de internações em 2020, mostrando-se completamente diferentes.</p>
-![imagem 1](https://drive.google.com/file/d/12oASUWexxXbwwMQO3xc3jGezYSo_x3xQ/view?usp=sharing)
+
+![imagem1](https://drive.google.com/file/d/12oASUWexxXbwwMQO3xc3jGezYSo_x3xQ/view?usp=sharing)
 
 <p align="justify"> Além do do escopo proposto para esta pesquisa, pode-se obaservar, com base na literatura estudada para estruturar a parte teorica da pesquisa, dados de sazonalidade diferentes dos apresentados na literatura para a influenza no Brasil, em até 2 meses de diferença.</p>
 
