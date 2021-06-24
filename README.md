@@ -157,12 +157,12 @@ Python, Bibliotecas Pandas, Numpy, Statistics, Matplotlib, Excel e o Google Cola
 <p align="justify"> Em seguida, o resultado mais importante foi o entendimento que, apesar do isolamento mostrar-se estatisticamente insignificante para responder a pergunta, houve o levantamento de indícios que uma ou mais variáveis interferiram na redução das internações por influenza na faixa de 0 a 4 anos. Apesar das variáveis não terem sido identificadas neste momento, tal fenonomeno começa a ser comprovado pelo desenvolvimento do gráfico de sobreposição das séries temporais, onde a modificação de comportamento da série pode ser claramente observado em 2020, em relação a 2015 a 2019, conforme a figura 1. </p>
 
 ![imagem0](https://github.com/raphaelgoncalves/UNICAMP-DataSci4Health-Projeto-Final/blob/main/Assets/imagem0.PNG)
-<p align="left">Figura 1: Gráfico de sobreposição das séries temporais. </p>
+<p align="center">Figura 1: Gráfico de sobreposição das séries temporais. </p>
 
 <p align="justify"> Outro resultado importante foi o de comparação entre a curva do modelo preditivo ARIMA e a curva real de internações em 2020, mostrando-se completamente diferentes, conforme podemos observar na figura 2.</p>
 
 ![imagem1](https://github.com/raphaelgoncalves/UNICAMP-DataSci4Health-Projeto-Final/blob/main/Assets/imagem1.PNG)
-<p align="left">Figura 2: Resultados do modelo preditivo ARIMA.</p>
+<p align="center">Figura 2: Resultados do modelo preditivo ARIMA.</p>
 
 <p align="justify"> Além do escopo proposto para esta pesquisa, pode-se observar, com base na literatura estudada, dados de sazonalidade diferentes dos apresentados na literatura para a influenza no Brasil, em até 2 meses de diferença, conforme podemos observar na figura 1.</p>
 
