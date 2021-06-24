@@ -152,11 +152,15 @@ Python, Bibliotecas Pandas, Numpy, Statistics, Matplotlib, Excel e o Google Cola
 <p align="justify"> Como ferramentas, foram utilizadas o notebook Google Colab, com python, por ser uma ferramenta online com capacidade de colaboração entre os membros da equipe. A linguagem python foi escolhida por ser uma linguagem muito utilizada atualmente, facilitando a resolução problemas, por haver ambientes de discussão entre a comunidade e documentação oficial bem atualizadas. Como complemento, em apoio à realização de atividades de pré-processamento, foi utilizado o excel, por facilitar o processo de testes e realização de alterações facilmente visualizaveis. </p>  
 
 # Resultados
-<p align="justify"> O principal resultado obtido foi o da correlação e p-valor(two-sided) entre o numero de casos de internações por influenza em crianças de 0 a 4 anos em 2020 e o indice de isolamento social em decorrencia da covid-19. Os resultados das análises indicaram uma correlação de spearman intermediária (0,58), sem significância estatistica (0,08).</p>
+<p align="justify"> O principal resultado obtido foi o da correlação e p-valor(two-sided) entre o numero de casos de internações por influenza em crianças de 0 a 4 anos em 2020 e o indice de isolamento social em decorrencia da covid-19. Os resultados das análises indicaram uma correlação de spearman intermediária (0,58), sem significância estatistica (0,08), o qual responde a pergunta de pesquisa definida.</p>
 
-<p align="justify"> Em seguida, o resultado mais importante foi o de comparação entre a curva do modelo preditivo ARIMA e a curva real de internações em 2020, mostrando-se completamente diferentes.</p>
+<p align="justify"> Em seguida, o resultado mais importante foi o entendimento que, apesar de o isolamento mostra-se estatisticamente insignificante para responder a pergunta, houve o levantamento de indícios que uma ou mais variáveis interferiram na redução das internações por influenza na faixa de 0 a 4 anos. Tal fenonomeno, começa a ser comprovado pelo desenvolvimento do gráfico de sobreposição das séries temporais, apresentado na figura 1. </p>
 
-![imagem1](https://github.com/raphaelgoncalves/UNICAMP-DataSci4Health-Projeto-Final/blob/main/Assets/imagem1.PNG)
+<p align="center">![imagem0](https://github.com/raphaelgoncalves/UNICAMP-DataSci4Health-Projeto-Final/blob/main/Assets/imagem0.PNG)
+
+<p align="justify"> Outro resultado importante foi o de comparação entre a curva do modelo preditivo ARIMA e a curva real de internações em 2020, mostrando-se completamente diferentes, conforme podemos observar na figura abaixo.</p>
+
+<p align="center">![imagem1](https://github.com/raphaelgoncalves/UNICAMP-DataSci4Health-Projeto-Final/blob/main/Assets/imagem1.PNG)
 
 <p align="justify"> Além do do escopo proposto para esta pesquisa, pode-se obaservar, com base na literatura estudada para estruturar a parte teorica da pesquisa, dados de sazonalidade diferentes dos apresentados na literatura para a influenza no Brasil, em até 2 meses de diferença.</p>
 
