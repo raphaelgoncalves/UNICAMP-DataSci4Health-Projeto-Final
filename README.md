@@ -122,7 +122,6 @@ Python, Bibliotecas Pandas, Numpy, Statistics, Matplotlib, Excel e o Google Cola
 [*Cronograma*](https://docs.google.com/document/d/19WYZ1MMnKAfzT6nPk9wERh0kRPu2wLS0aIIbGzgJ2CM/edit?usp=sharing)
 
 # Análises Realizadas
-> Descrição detalhada das análises realizadas.
 
 <p align="justify"> A partir da obtenção, pré-processamento e integração dos dados do SIH-DATASUS e do IPEA, iniciou-se a análise exploratória dos dados, os quais, estavam organizados em séries temporais(ST). Nesta perspectiva, foi necessário compreender as particularidades deste sub-domínio estatístico vasto das ST, que inclui a importância dos processos de conversões de datas, decomposição da ST em tendência, sazonalidade e residual, análise de estacionariedade, autocorrelação e dependendo do contexto estudado, o uso de modelos preditivos de autoregressão e suas variações(AR, ARMA, ARIMA). </p>
  
@@ -150,16 +149,23 @@ Python, Bibliotecas Pandas, Numpy, Statistics, Matplotlib, Excel e o Google Cola
 <p align="justify"> A segunda mudança de trajetória foi em relação a análise de mortalidade por influenza na mesma faixa etária e sua correlação com o indice de isolamento. Nesta quesito, após a coleta inicial de dados, notou-se inicialmente a incidência de dados faltantes e em seguida houve a hipótese de viés nos dados disponibilizados. O viés se relacionou à baixissima quantidade de casos de mortalidade em um indice nacional, chegando a 1 em alguns meses. Nesta perspectiva, foi decidido não estudar tal fenomêno no momento, deixando para compreender tais complexidades, possiveis viéses e dentre outras especificidades em um projeto separado ou em um momento futuro. </p> 
 
 ## Ferramentas
-<p align="justify"> Como 
+<p align="justify"> Como ferramentas, foram utilizadas o notebook Google Colab, com python, por ser uma ferramenta online com capacidade de colaboração entre os membros da equipe. A linguagem python foi escolhida por ser uma linguagem muito utilizada atualmente, facilitando a resolução problemas, por haver ambientes de discussão entre a comunidade e documentação oficial bem atualizadas. Como complemento, em apoio à realização de atividades de pré-processamento, foi utilizado o excel, por facilitar o processo de testes e realização de alterações facilmente visualizaveis. </p>  
 
 # Resultados
-> Descrição dos resultados mais importantes obtidos.
->
-> Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de Análises Realizadas (o que for mais pertinente).
+<p align="justify"> O principal resultado obtido foi o da correlação e p-valor(two-sided) entre o numero de casos de internações por influenza em crianças de 0 a 4 anos em 2020 e o indice de isolamento social em decorrencia da covid-19. Os resultados das análises indicaram uma correlação de spearman intermediária (0,58), sem significância estatistica (0,08).</p>
+
+<p align="justify"> Em seguida, o resultado mais importante foi o de comparação entre a curva do modelo preditivo ARIMA e a curva real de internações em 2020, mostrando-se completamente diferentes.</p>
+![imagem 1](https://drive.google.com/file/d/12oASUWexxXbwwMQO3xc3jGezYSo_x3xQ/view?usp=sharing)
+
+<p align="justify"> Além do do escopo proposto para esta pesquisa, pode-se obaservar, com base na literatura estudada para estruturar a parte teorica da pesquisa, dados de sazonalidade diferentes dos apresentados na literatura para a influenza no Brasil, em até 2 meses de diferença.</p>
 
 # Discussão
 > Discussão dos resultados. Relacionar os resultados com as perguntas de pesquisa ou hipóteses avaliadas.
->
+
+<p align="justify"> O principal resultado obtido foi que a hipótese nula definida foi negada, a partir da correlação e p-valor(two-sided) entre o numero de casos de internações por influenza em crianças de 0 a 4 anos em 2020 e o indice de isolamento social em decorrencia da covid-19. Os resultados das análises indicaram um </p>
+
+<p align="justify"> Em seguida, os resultados secundários foram a comprovação que houve uma alteração de na curva da série temporal
+
 > A discussão dos resultados também pode ser feita opcionalmente na seção de Resultados, na medida em que os resultados são apresentados. Aspectos importantes a serem discutidos: É possível tirar conclusões dos resultados? Quais? Há indicações de direções para estudo? São necessários trabalhos mais profundos?
 
 # Conclusão
