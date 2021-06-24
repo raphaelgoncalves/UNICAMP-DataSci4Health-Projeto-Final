@@ -20,7 +20,7 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 <p align="justify">O distanciamento social como medida de saúde pública para controlar a pandemia de COVID-19 pode ter afetado o fardo de outras doenças respiratórias, tendo, desta forma, impactado na incidência de hospitalizações por doenças respiratórias com sazonalidade conhecida, como a gripe (influenza, CID 10 - J11).
 <p align="justify">Desta forma, esse estudo teve  como objetivo avaliar o impacto do distanciamento social em resposta à pandemia de COVID-19 em internações hospitalares por influenza, entre os anos de 2015 a 2020, através de uma análise de série temporal.
 <p align="justify">Os dados referentes às internações foram obtidos na plataforma DATA SUS, e os dados referentes ao índice de isolamento social na Brasil foram obtidos na base Ipea - Instituto de Pesquisa Econômica Aplicada.
-<p align="justify">A análise exploratória dos dados mostrou uma sazonalidade da influenza nesta população entre os meses de Março e Julho.  Embora tenha  ocorrido uma queda brusca no número de internações a partir de março de 2020 , foi encontrada uma correlação  fraca [ρ= 0.59] entre o número de hospitalizações por influenza e o índice de isolamento social [p=0.08]. Para o futuro, esta pesquisa poderá se dirigir à busca de novas variáveis que possam ter vindo a interferir individualmente ou em conjunto ao isolamento social, para promover a redução dos casos de internação por influenza em crianças de 0 a 4 anos, observada em 2020. 
+<p align="justify">A análise exploratória dos dados mostrou uma sazonalidade da influenza nesta população entre os meses de Março e Julho.  Embora tenha  ocorrido uma queda brusca no número de internações a partir de março de 2020 , foi encontrada uma correlação  intermediária [ρ= 0.59] entre o número de hospitalizações por influenza e o índice de isolamento social, com p valor indicando que não há significância estatistica [p=0.08]. Para o futuro, esta pesquisa poderá se dirigir à busca de novas variáveis que possam ter vindo a interferir individualmente ou em conjunto ao isolamento social, para promover a redução dos casos de internação por influenza em crianças de 0 a 4 anos, observada em 2020. 
 
 
 # Vídeos do Projeto
@@ -34,11 +34,11 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 # Introdução e Referenciais de Teóricos
 
 <p align="justify"> A gripe é uma doença aguda do sistema respiratório, causada pelo vírus Influenza, tendo alta capacidade de transmissão e distribuição global. A transmissão do vírus Influenza entre humanos ocorre pela via respiratória por meio de secreções como aerossóis, gotículas ou por contato direto da mucosa. São poucas as opções disponíveis para o seu controle. Dentre essas, a vacinação constitui a forma mais eficaz para o controle da doença e de suas complicações[1]. 
-<p align="justify"> No Brasil, segundo dados obtidos pelo Projeto VigiGripe1, em 2003 verificou-se que a influenza apresentava pico de atividade entre os meses de maio e setembro, e que, no entanto casos, esporádicos eram detectados em outros meses do ano. O vírus apresenta altas taxas de mutação, o que resulta frequentemente na inserção de novas variantes virais na comunidade, para as quais a população não apresenta imunidade.1 A campanha de vacinação contra a influenza é alterada anualmente, com base nas recomendações da Organização Mundial da Saúde (OMS), tendo sido realizada no periodo de abril a maio, nos anos de 2015 a 2017[2,3,4] no periodo de abril a junho em 2018[5], de abril a maio em 2019[6], e entre os meses de março e maio em 2020[7]. 
+<p align="justify"> No Brasil, segundo dados obtidos pelo Projeto VigiGripe1, em 2003 verificou-se que a influenza apresentava pico de atividade entre os meses de maio e setembro, e que, no entanto casos, esporádicos eram detectados em outros meses do ano. O vírus apresenta altas taxas de mutação, o que resulta frequentemente na inserção de novas variantes virais na comunidade, para as quais a população não apresenta imunidade [1]. A campanha de vacinação contra a influenza é alterada anualmente, com base nas recomendações da Organização Mundial da Saúde (OMS), tendo sido realizada no periodo de abril a maio, nos anos de 2015 a 2017[2,3,4] no periodo de abril a junho em 2018[5], de abril a maio em 2019[6], e entre os meses de março e maio em 2020[7]. 
 <p align="justify"> Nascimento et. al (2020) avaliaram através de um estudo clínico transversal, a prevalência de hospitalizações por doenças respiratórias na infância, entre elas infecções respiratórias de vias aéreas superiores, asma / bronquite, bronquiolite e pneumonia, e o impacto do isolamento social por COVID-19 no comportamento sazonal dessas doenças. Os autores encontraram na redução inesperada do número de hospitalizações na população pediátrica durante este período, e concluíram que as medidas de isolamento social adotadas durante a pandemia COVID-19 podem ter interferido na sazonalidade dessas doenças respiratórias infantis[8]. 
  <p align="justify">  No Brasil, as crianças estiveram fora da pré-escola e de creches no ano de 2020, devido às adaptações necessárias ao enfrentamento da COVID-19.
 Dessa forma, o distanciamento social, o uso de mascaras, a suspensão de aulas em escolas e os protocolos de enfrentamento adotados como medida de saúde pública para controlar a pandemia de COVID-19 podem ter afetado a incidência de hospitalizações por doenças respiratórias, como a gripe (influenza, CID 10 - J11). 
- <p align="justify"> Considerando a repercussão dessas experiências sociais únicas na saúde infantil, esse estudo tem como objetivo, através da ciência de dados, avaliar o impacto do distanciamento social em resposta à pandemia de COVID-19 em internações hospitalares de crianças por influenza.
+ <p align="justify"> Considerando a repercussão dessas experiências sociais únicas na saúde infantil, esse estudo tem como objetivo, através da ciência de dados, avaliar o impacto do distanciamento social em resposta à pandemia de COVID-19 em internações hospitalares de crianças de 0 a 4 anos, por influenza.
  
 # Pergunta de Pesquisa
 <p align="justify">Qual o impacto do distanciamento social no Brasil em resposta à pandemia de COVID-19 na incidência de hospitalização de crianças por gripe (influenza)?</p>
@@ -72,7 +72,7 @@ Crianças de 0 a 4 anos.
 
 > Quais as transformações e tratamentos (e.g., dados faltantes e limpeza) feitos?
 
-Inicialmente, cabe ressaltar que os dados já vieram pré-processados, pois os dados deste estudo são provenientes do Tabwin do DataSus. 
+Inicialmente, cabe ressaltar que os dados já vieram pré-processados, pois os dados deste estudo são provenientes do Tabwin do DataSus. Além disso, foram realizadas as seguintes etapas de pré-processamento: 
  - Limpeza de dados a partir da extração de metadados que estavam junto aos .csv dos datasets;
  - Preparação de dados a partir de reconfigurações de datas;
  - Preparação de dados a partir da transposição das  features linhas em colunas no .csv para gerar um data frame;
@@ -91,7 +91,7 @@ Inicialmente, cabe ressaltar que os dados já vieram pré-processados, pois os d
 
 [*Moraes-2020*](https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=35462&Itemid=4/)
 
-Para saber mais sobre o indice de isolamento social, acesse Nota Técnica-2020-Maio-Número19 do IPEA [*Nota Técnica-2020-Maio-Número19-Dinte*](https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=35567).
+Para saber mais sobre o indice de isolamento social, acesse Nota Técnica Número 19/2020 do IPEA [*Nota Técnica-2020-Maio-Número19-Dinte*](https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=35567).
 
 
 > Quais as transformações e tratamentos (e.g., dados faltantes e limpeza) feitos?
@@ -102,7 +102,7 @@ Os dados foram extraidos a partir do seguinte [*link*](https://docs.google.com/s
 
 > Apresente aqui uma Análise Exploratória (inicial) sobre esta base.
 
-A análise exploratória inicial foi realizada em um notebook executável e pode ser acessada no link a seguir:
+A análise exploratória inicial de ambas as bases foram realizadas em um notebook executável e pode ser acessada no link a seguir:
 
 [*Analise Exploratória*](https://colab.research.google.com/drive/15yIhW_BfnWs5OOBj1EyC9R7L3YGWI04B?usp=sharing)
 
@@ -132,7 +132,7 @@ Python, Bibliotecas Pandas, Numpy, Statistics, Matplotlib, Excel e o Google Cola
  3) Correlação entre Séries Temporais;
  4) Conclusões.
 
-<p align="justify"> Na primeira etapa, realizamos a importação dos .csv do DATASUS, os quais já haviam passado por uma etapa do pré-processamento, usando a ferramenta excel, para a limpeza de metadados, integração e transposições, realizadas em mais de 6 testes distintos, a fim de verificar o melhor formato para importação dos dados no notebook. Em seguida, já com os dados importados no notebook, foi realizada outra etapa de pré-processamento, envolvendo entendimento dos tipos de dados do dataset e conversões de data. A próxima análise desta etapa envolveu a visualização de dados, com o desenvolvimento de gráficos da série temporal completa e Gráfico de sobreposição das séries temporais. </p>
+<p align="justify"> Na primeira etapa, realizamos a importação dos arquivos .csv gerados pelo Tabwin do DATASUS, os quais já haviam passado por uma etapa do pré-processamento, usando a ferramenta excel, para a limpeza de metadados, integração e transposições, realizadas em mais de 6 testes distintos, a fim de verificar o melhor formato para importação dos dados no notebook. Em seguida, já com os dados importados no notebook, foi realizada outra etapa de pré-processamento, envolvendo entendimento dos tipos de dados do dataset e conversões de data. A próxima análise desta etapa envolveu a visualização de dados, com o desenvolvimento de gráficos da série temporal completa e gráfico de sobreposição das séries temporais. </p>
  
 <p align="justify"> Ainda na primeira etapa, foi realizada a análise estatística da serie temporal DATASUS, iniciando pela verificação de estacionariedade, decomposição da série temporal e desenvolvimento de gráficos de autocorrelação.</p>
  
@@ -154,9 +154,9 @@ Python, Bibliotecas Pandas, Numpy, Statistics, Matplotlib, Excel e o Google Cola
 
 # Resultados
 
-<p align="justify"> O principal resultado obtido foi o da correlação e p-valor(two-sided) entre o numero de casos de internações por influenza em crianças de 0 a 4 anos em 2020 e o indice de isolamento social em decorrencia da covid-19. Os resultados das análises indicaram uma correlação de spearman intermediária (0,58), sem significância estatistica (0,08), o qual responde a pergunta de pesquisa definida.</p>
+<p align="justify"> O principal resultado obtido foi o da correlação e p-valor(two-sided) entre o numero de casos de internações por influenza em crianças de 0 a 4 anos em 2020 e o indice de isolamento social em decorrencia da covid-19. Os resultados das análises indicaram uma correlação de spearman intermediária (0,58), sem significância estatistica (0,08), o qual responde a pergunta de pesquisa definida pela negação da hipótese nula.</p>
 
-<p align="justify"> Em seguida, o resultado mais importante foi o entendimento que, apesar do isolamento mostrar-se estatisticamente insignificante para responder a pergunta, houve o levantamento de indícios que uma ou mais variáveis interferiram na redução das internações por influenza na faixa de 0 a 4 anos. Apesar das variáveis não terem sido identificadas neste momento, tal fenonomeno começa a ser comprovado pelo desenvolvimento do gráfico de sobreposição das séries temporais, onde a modificação de comportamento da série pode ser claramente observado em 2020, em relação a 2015 a 2019, conforme a figura 1. </p>
+<p align="justify"> Em seguida, outro resultado importante foi o entendimento que, apesar do isolamento mostrar-se estatisticamente insignificante para responder a pergunta, houve o levantamento de indícios que uma ou mais variáveis interferiram na redução das internações por influenza na faixa de 0 a 4 anos. Apesar das variáveis não terem sido identificadas neste momento, tal fenonomeno começa a ser comprovado pelo desenvolvimento do gráfico de sobreposição das séries temporais, onde a modificação de comportamento da série pode ser claramente observado em 2020, em relação a 2015 a 2019, conforme a figura 1. </p>
 
 ![imagem0](https://github.com/raphaelgoncalves/UNICAMP-DataSci4Health-Projeto-Final/blob/main/Assets/imagem0.PNG)
 <p align="center">Figura 1: Gráfico de sobreposição das séries temporais. </p>
@@ -176,15 +176,15 @@ Python, Bibliotecas Pandas, Numpy, Statistics, Matplotlib, Excel e o Google Cola
 
 # Conclusão
 
-<p align="justify"> A partir dos resultados deste estudo conclui-se que o isolamento social, sozinho, não ocasionou a redução das internação por influenza na faixa etária de 0 a 4 anos no SUS. Porém, pôde-se comprovar a existência de indícios que uma ou mais variáveis contribuiram para a drástica redução no número de internações. Nesta perspectiva, estudos mais aprofundados, buscando identificar tais variáveis e suas correlações devem ser realizados para compreender melhor o fenômeno. </p> 
+<p align="justify"> A partir dos resultados deste estudo, conclui-se que o isolamento social não ocasionou, de forma individual, a redução das internação por influenza na faixa etária de 0 a 4 anos no SUS. Porém, pôde-se comprovar a existência de indícios que uma ou mais variáveis contribuiram para a drástica redução no número de internações. Nesta perspectiva, estudos mais aprofundados, buscando identificar tais variáveis e suas correlações devem ser realizados para compreender melhor o fenômeno. </p> 
 
 <p align="justify">Além disto, foi identificada uma alteração entre a sazonalidade descrita na literatura e a sazonalidade da Influenza nos últimos 5 anos. Tendo em vista que os estudos mais atuais sobre o tema são de 2003, conclui-se a necessidade realização de mais estudos para comprovar os resultados analisados e assim atualizar a literatura, caso seja comprovado o fenômeno. </p>
 
-<p align="justify">Os principais desafios e lições aprendidas nesta pesquisa estão principalmente relacionados à integração entre pesquisadores de dominios diferentes (Saúde, Computação e Engenharia), desde o processo de alinhamento de visões de mundo ciêntificas até às especificidades técnicas de cada área, visando sempre a inclusão e aprimoramento mútuos. Ademais, o campo estatístico mostra-se sempre mais vasto e complexo que o nosso entendimento presente, sendo fundamental na contribuição do desenvolvimento de pesquisas ciêntificas robustas e que agreguem novos conhecimentos para auxiliar o desenvolvimento humano. </p>
+<p align="justify">Os principais desafios e lições aprendidas nesta pesquisa estão principalmente relacionados à integração entre pesquisadores de dominios diferentes (Saúde, Computação e Engenharia), desde o processo de alinhamento de visões de mundo ciêntificas até às especificidades técnicas de cada área, visando sempre a inclusão e aprimoramento mútuos. Ademais, o campo estatístico mostra-se sempre mais vasto e complexo que o nosso entendimento presente, sendo fundamental na contribuição para o desenvolvimento de pesquisas ciêntificas robustas e que agreguem novos conhecimentos para auxiliar no desenvolvimento humano. </p>
 
 
 # Trabalhos Futuros
-<p align="justify"> Os trabalhos futuros se direcionam para o entendimento da interfêrencia de outras variáveis na a redução das internação por influenza na faixa etária de 0 a 4 anos no SUS e se esta interferência foi em conjunto ou individual. Em seguida, estudar dados de mortalidade, entendendo possiveis viéses e dados faltantes, além de realizar processos de estratificação por sexo e estado, incluindo uma faixa etária maior para análise. Além disso, realizar estudos comprobatórios em relação às alterações indentificadas na sazonalidade da Influenza, buscando entender as variáveis que interferiram neste processo. Por fim, realizar a publicação dos resultados obtidos nesta pesquisa.  </p>
+<p align="justify"> Os trabalhos futuros se direcionam para o entendimento da interfêrencia de outras variáveis na redução das internação por influenza na faixa etária de 0 a 4 anos no SUS e se esta interferência foi em conjunto ou individual. Em seguida, estudar dados de mortalidade, entendendo possiveis viéses e dados faltantes, além de realizar processos de estratificação por sexo e estado, incluindo uma faixa etária maior para análise. Além disso, realizar estudos comprobatórios em relação às alterações indentificadas na sazonalidade da Influenza, buscando entender as variáveis que interferiram neste processo. Por fim, realizar a publicação dos resultados obtidos nesta pesquisa.  </p>
 
 # Referências Bibliográficas
 > 1-	FORLEO-NETO, E. et al. Influenza.  Rev Soc Bras Med Trop, Uberaba, v. 36, n. 2, p. 267-274, 2003.
