@@ -156,7 +156,7 @@ Python, Bibliotecas Pandas, Numpy, Statistics, Matplotlib, Excel e o Google Cola
 
 <p align="justify"> Em seguida, o resultado mais importante foi o de comparação entre a curva do modelo preditivo ARIMA e a curva real de internações em 2020, mostrando-se completamente diferentes.</p>
 
-![imagem1](https://drive.google.com/file/d/12oASUWexxXbwwMQO3xc3jGezYSo_x3xQ/view?usp=sharing)
+![imagem1](https://github.com/raphaelgoncalves/UNICAMP-DataSci4Health-Projeto-Final/blob/main/Assets/imagem1.PNG)
 
 <p align="justify"> Além do do escopo proposto para esta pesquisa, pode-se obaservar, com base na literatura estudada para estruturar a parte teorica da pesquisa, dados de sazonalidade diferentes dos apresentados na literatura para a influenza no Brasil, em até 2 meses de diferença.</p>
 
