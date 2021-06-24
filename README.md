@@ -20,13 +20,13 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 <p align="justify">O distanciamento social como medida de saúde pública para controlar a pandemia de COVID-19 pode ter afetado o fardo de outras doenças respiratórias, tendo, desta forma, impactado na incidência de hospitalizações por doenças respiratórias com sazonalidade conhecida, como a gripe (influenza, CID 10 - J11).
 <p align="justify">Desta forma, esse estudo teve  como objetivo avaliar o impacto do distanciamento social em resposta à pandemia de COVID-19 em internações hospitalares por influenza, entre os anos de 2015 a 2020, através de uma análise de série temporal.
 <p align="justify">Os dados referentes às internações foram obtidos na plataforma DATA SUS, e os dados referentes ao índice de isolamento social na Brasil foram obtidos na base Ipea - Instituto de Pesquisa Econômica Aplicada.
-<p align="justify">A análise exploratória dos dados mostrou uma sazonalidade da influenza nesta população entre os meses de Março e Julho.  Embora tenha  ocorrido uma queda brusca no número de internações a partir de março de 2020 , foi encontrada uma correlação  fraca [ρ= 0.59] entre o número de hospitalizações por influenza e o índice de isolamento social [p=0.08].
+<p align="justify">A análise exploratória dos dados mostrou uma sazonalidade da influenza nesta população entre os meses de Março e Julho.  Embora tenha  ocorrido uma queda brusca no número de internações a partir de março de 2020 , foi encontrada uma correlação  fraca [ρ= 0.59] entre o número de hospitalizações por influenza e o índice de isolamento social [p=0.08]. Para o futuro, esta pesquisa poderá se dirigir à busca de novas variáveis que possam ter vindo a interferir individualmente ou em conjunto ao isolamento social, para promover a redução dos casos de internação por influenza em crianças de 0 a 4 anos, observada em 2020. 
 
 
 # Vídeos do Projeto
 [*Vídeo de Apresentação do Projeto*](https://drive.google.com/file/d/1Ncb4lrw9qq2EVpo1PS115lLMc4epxSyP/view?usp=sharing)
 
-[*Vídeo da Apresentação Final*](LINK)
+[*Vídeo da Apresentação Final*](https://youtu.be/X_k6-WSSHGo)
  
 # Slides da Apresentação Final
 [*Slides da Apresentação Final*](https://docs.google.com/presentation/d/1s2u8UMjPYv8Wt1XQXc1LJa0I2yuEOJ-tSRMhBdDBJLs/edit?usp=sharing)
@@ -64,7 +64,7 @@ Crianças de 0 a 4 anos.
 > -- | -- | --
 > SIH - DATASUS | [*SIH-DATASUS*](http://www2.datasus.gov.br/DATASUS/index.php?area=0203&id=6926) | <p align="justify">O Sistema de Informações Hospitalares - SIH, registra dados de todos os atendimentos provenientes de internações hospitalares que foram financiadas pelo SUS. Mensalmente, estes dados são disponibilizados como OpenData para acesso via DATASUS. Para mais informações acesse a [*wiki-DATASUS*](https://wiki.saude.gov.br/sih/index.php/P%C3%A1gina_principal)</p>
 
-> Qual o esquema/dicionário desse banco (o formato é livre)?
+> Qual o esquema/dicionário desse banco?
 <p align="justify">O SIH - DATASUS não disponibiliza um arquivo específico com o dicionário dos dados, porém os metadados são inseridos no dataset. </p>
 
 > O que descobriu sobre esse banco?
@@ -124,27 +124,33 @@ Python, Bibliotecas Pandas, Numpy, Statistics, Matplotlib, Excel e o Google Cola
 # Análises Realizadas
 > Descrição detalhada das análises realizadas.
 
-<p align="justify"> A partir da obtenção, pré-processamento e integração dos dados do SIH-DATASUS e do IPEA, iniciou-se a análise exploratória dos dados, os quais, estavam organizados em séries temporais(ST). Nesta perspectiva, foi necessário compreender as particularidades deste sub-domínio estatístico vasto das ST. Sobre séries temporais, compreendemos a importância dos processos de conversões de datas, decomposição da ST em tendência, sazonalidade e residual, análise de estacionariedade, autocorrelação e o uso de modelos preditivos de autoregressão e suas variações(AR, ARMA, ARIMA). </p>
+<p align="justify"> A partir da obtenção, pré-processamento e integração dos dados do SIH-DATASUS e do IPEA, iniciou-se a análise exploratória dos dados, os quais, estavam organizados em séries temporais(ST). Nesta perspectiva, foi necessário compreender as particularidades deste sub-domínio estatístico vasto das ST, que inclui a importância dos processos de conversões de datas, decomposição da ST em tendência, sazonalidade e residual, análise de estacionariedade, autocorrelação e dependendo do contexto estudado, o uso de modelos preditivos de autoregressão e suas variações(AR, ARMA, ARIMA). </p>
  
-<p align="justify"> Iniciamos as análises com a realização de um processo exploratório, desenvolvido em um notebook colab com Python e bibliotecas para ciência de dados (pandas, numpy, matplotlib, scipy, seaborn, datetime, statsmodels e dentre outras). A análise exploratória dividiu-se em 3 partes: </p>
+<p align="justify"> A análise exploratória foi desenvolvida em um notebook colab com Python e bibliotecas para ciência de dados (pandas, numpy, matplotlib, scipy, seaborn, datetime, statsmodels e dentre outras) e com excel para realizar parte do pré-processamento. A análise exploratória dividiu-se em 4 partes: </p>
+
  1) DATASUS - Importação, Pré-Processamento e Visualização dos dados;
- 2) Indice de Isolamento Social no Brasil 2020-2021 - Importação, Pré-Processamento e Visualização dos dados
+ 2) Indice de Isolamento Social no Brasil 2020-2021 - Importação, Pré-Processamento e Visualização dos dados;
  3) Correlação entre Séries Temporais;
  4) Conclusões.
 
-<p align="justify"> Na primeira etapa, realizamos a importação dos .csv do DATASUS, os quais já haviam passado por uma etapa do pré-processamento, usando a ferramenta excel, com a limpeza de metadados, integração e transposições, realizadas em mais de 5 testes distintos, a fim de verificar o melhor formato para importação dos dados no notebook. Em seguida, já com os dados importados no notebook, foi realizada outra etapa de pré-processamento, envolvendo entendimento dos tipos de dados do dataset e conversões de data. A próxima anaálise desta etapa envolveu a visualização de dados, com o desenvolvimento de gráficos da série temporal completa e Gráfico de sobreposição das séries temporais. </p>
+<p align="justify"> Na primeira etapa, realizamos a importação dos .csv do DATASUS, os quais já haviam passado por uma etapa do pré-processamento, usando a ferramenta excel, para a limpeza de metadados, integração e transposições, realizadas em mais de 6 testes distintos, a fim de verificar o melhor formato para importação dos dados no notebook. Em seguida, já com os dados importados no notebook, foi realizada outra etapa de pré-processamento, envolvendo entendimento dos tipos de dados do dataset e conversões de data. A próxima análise desta etapa envolveu a visualização de dados, com o desenvolvimento de gráficos da série temporal completa e Gráfico de sobreposição das séries temporais. </p>
  
-<p align="justify"> Ainda na primeira etapa, foi realizada a análise estatística da serie temporal DATASUS......
+<p align="justify"> Ainda na primeira etapa, foi realizada a análise estatística da serie temporal DATASUS, iniciando pela verificação de estacionariedade, decomposição da série temporal e desenvolvimento de gráficos de autocorrelação.</p>
+ 
+<p align="justify"> Na segunda etapa, realizamos a importação dos dados crus no notebook, em .csv, e realizamos conversões de data. Em seguida realizamos a visualização de dados, teste de estacionariedade, decomposição da série temporal e autocorrelação.</p>
+ 
+<p align="justify"> Na terceira etapa, foi realizada a análise de normalidade das séries com Shapiro-Wilk e análise de correlação entre as duas séries temporais utilizando Spearman, tendo em vista que os dados de 2020 do DATASUS foram testados como normais e o indice de isolamento como não-normal.</p>
 
+<p align="justify"> Na etapa de conclusão foram interpretados os resultados, apresentando os futuros direcionamentos do estudo.</p>
 
+<p align="justify"> Após compreender a correlação entre as séries temporais, foi decidido como próximo direcionamento do projeto, desenvolver um modelo preditivo, usando ARIMA, para verificar se, conforme a sazonalidade e tendência de internações de 2015 a 2019, a curva de 2020, prevista pelo modelo, seria a mesma que a curva real observada. Se fossem iguais, isso poderia indicar que o número de internações tendia a se comportar da forma com foi observada, por tendencia e sazonalidade natural da ST. Porém, se fossem diferentes, seria mais um dado para corroborar com a comprovação de que uma ou mais variáveis interferiram na curva observada em 2020.</p>
 
->Relate aqui também a evolução do projeto: possíveis problemas enfrentados e possíveis mudanças de trajetória. Relatar o processo para se alcançar os resultados é tão importante quanto os resultados.
->
->
->
+<p align="justify"> Em relação a evolução do projeto, houveram duas mudanças de trajetória importantes a serem citadas. A primeira é que a metodologia inicial de desenvolvimento foi o CRISP-DM. Porém, no decorrer do projeto, entendeu-se que toda a documentação proposta como padrão no Git seguia uma visão mais voltada para metodologia KDD. Com isso, para evitar a duplicidade de metodologias e redundância de documentação, foi resolvido utilizar somente a metodologia KDD.</p>
+
+<p align="justify"> A segunda mudança de trajetória foi em relação a análise de mortalidade por influenza na mesma faixa etária e sua correlação com o indice de isolamento. Nesta quesito, após a coleta inicial de dados, notou-se inicialmente a incidência de dados faltantes e em seguida houve a hipótese de viés nos dados disponibilizados. O viés se relacionou à baixissima quantidade de casos de mortalidade em um indice nacional, chegando a 1 em alguns meses. Nesta perspectiva, foi decidido não estudar tal fenomêno no momento, deixando para compreender tais complexidades, possiveis viéses e dentre outras especificidades em um projeto separado ou em um momento futuro. </p> 
 
 ## Ferramentas
-> Panorama das ferramentas utilizadas incluindo discussão sobre o uso das mesmas
+<p align="justify"> Como 
 
 # Resultados
 > Descrição dos resultados mais importantes obtidos.
