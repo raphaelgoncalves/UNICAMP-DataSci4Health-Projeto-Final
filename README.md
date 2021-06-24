@@ -149,9 +149,11 @@ Python, Bibliotecas Pandas, Numpy, Statistics, Matplotlib, Excel e o Google Cola
 <p align="justify"> A segunda mudança de trajetória foi em relação a análise de mortalidade por influenza na mesma faixa etária e sua correlação com o indice de isolamento. Nesta quesito, após a coleta inicial de dados, notou-se inicialmente a incidência de dados faltantes e em seguida houve a hipótese de viés nos dados disponibilizados. O viés se relacionou à baixissima quantidade de casos de mortalidade em um indice nacional, chegando a 1 em alguns meses. Nesta perspectiva, foi decidido não estudar tal fenomêno no momento, deixando para compreender tais complexidades, possiveis viéses e dentre outras especificidades em um projeto separado ou em um momento futuro. </p> 
 
 ## Ferramentas
+
 <p align="justify"> Como ferramentas, foram utilizadas o notebook Google Colab, com python, por ser uma ferramenta online com capacidade de colaboração entre os membros da equipe. A linguagem python foi escolhida por ser uma linguagem muito utilizada atualmente, facilitando a resolução problemas, por haver ambientes de discussão entre a comunidade e documentação oficial bem atualizadas. Como complemento, em apoio à realização de atividades de pré-processamento, foi utilizado o excel, por facilitar o processo de testes e realização de alterações facilmente visualizaveis. </p>  
 
 # Resultados
+
 <p align="justify"> O principal resultado obtido foi o da correlação e p-valor(two-sided) entre o numero de casos de internações por influenza em crianças de 0 a 4 anos em 2020 e o indice de isolamento social em decorrencia da covid-19. Os resultados das análises indicaram uma correlação de spearman intermediária (0,58), sem significância estatistica (0,08), o qual responde a pergunta de pesquisa definida.</p>
 
 <p align="justify"> Em seguida, o resultado mais importante foi o entendimento que, apesar do isolamento mostrar-se estatisticamente insignificante para responder a pergunta, houve o levantamento de indícios que uma ou mais variáveis interferiram na redução das internações por influenza na faixa de 0 a 4 anos. Apesar das variáveis não terem sido identificadas neste momento, tal fenonomeno começa a ser comprovado pelo desenvolvimento do gráfico de sobreposição das séries temporais, onde a modificação de comportamento da série pode ser claramente observado em 2020, em relação a 2015 a 2019, conforme a figura 1. </p>
@@ -167,20 +169,19 @@ Python, Bibliotecas Pandas, Numpy, Statistics, Matplotlib, Excel e o Google Cola
 <p align="justify"> Além do escopo proposto para esta pesquisa, pode-se observar, com base na literatura estudada, dados de sazonalidade diferentes dos apresentados na literatura para a influenza no Brasil, em até 2 meses de diferença, conforme podemos observar na figura 1.</p>
 
 # Discussão
-> Discussão dos resultados. Relacionar os resultados com as perguntas de pesquisa ou hipóteses avaliadas.
 
-<p align="justify"> O principal resultado obtido foi que a hipótese nula definida foi negada, a partir da correlação e p-valor(two-sided) entre o numero de casos de internações por influenza em crianças de 0 a 4 anos em 2020 e o indice de isolamento social em decorrencia da covid-19. Os resultados das análises indicaram um </p>
+<p align="justify"> A principal discussão, relaciona-se com o resultado de que a hipótese nula definida foi negada, a partir da correlação e p-valor(two-sided) entre o numero de casos de internações por influenza em crianças de 0 a 4 anos em 2020 e o indice de isolamento social em decorrencia da covid-19. Os resultados apresentados denotam uma correlação sem significância estatistica, apesar dos valores da correlação serem intermediários. Tal resultado, demonstra dois cenários: primeiramente, que o indice de isolamento não contribuiu para redução das internações por influenza; Mas também que o indice de isolamento pode não ter contribuido sozinho para a redução das internações, indicando que outras variáveis podem ter contribuido em conjunto para este fenomeno. A utilização do modelo preditivo ARIMA reforça os indícios de que um conjunto de variáveis pode ter contribuido para a redução dos casos de internação por influenza na faixa etária de 0 a 4 anos no SUS. </p>
 
-<p align="justify"> Em seguida, os resultados secundários foram a comprovação que houve uma alteração de na curva da série temporal
-
-> A discussão dos resultados também pode ser feita opcionalmente na seção de Resultados, na medida em que os resultados são apresentados. Aspectos importantes a serem discutidos: É possível tirar conclusões dos resultados? Quais? Há indicações de direções para estudo? São necessários trabalhos mais profundos?
+<p align="justify"> Em seguida, com base na literatura estudada para compor a base teórica do estudo em relação à influenza, foi percebido, para além da pergunta de pesquisa, que a sazonalidade descrita para a influenza, entre Maio e Setembro, está completamente diferente da sazonalidade verificada nos ultimos 5 anos, entre Março e Maio, mostrando a necessidade estudos futuros sobre o tema. </p>
 
 # Conclusão
 > Destacar as principais conclusões obtidas no desenvolvimento do projeto.
->
-> Destacar os principais desafios enfrentados.
->
-> Principais lições aprendidas.
+<p align="justify"> A partir dos resultados deste estudo conclui-se que o isolamento social, sozinho, não ocasionou a redução das internação por influenza na faixa etária de 0 a 4 anos no SUS. Porém, pôde-se comprovar a existência de indícios que uma ou mais variáveis contribuiram para a drástica redução no número de internações. Nesta perspectiva, estudos mais aprofundados, buscando identificar tais variáveis e suas correlações devem ser realizados para compreender melhor o fenômeno. 
+
+Além disto, foi identificada uma alteração entre a sazonalidade descrita na literatura e a sazonalidade da Influenza nos últimos 5 anos. Tendo em vista que os estudos mais atuais sobre o tema são de 2003, conclui-se a necessidade realização de mais estudos para comprovar os resultados analisados e assim atualizar a literatura, caso seja comprovado o fenômeno.
+
+Os principais desafios e lições aprendidas nesta pesquisa estão principalmente relacionados à integração entre pesquisadores de dominios diferentes (Saúde, Computação e Engenharia), desde o processo de alinhamento de visões de mundo ciêntificas até às especificidades técnicas de cada área, visando sempre a inclusão e aprimoramento mútuos. Ademais, o campo estatístico mostra-se sempre mais vasto e complexo que o nosso entendimento presente, sendo fundamental na contribuição do desenvolvimento de pesquisas ciêntificas robustas e que agreguem novos conhecimentos para auxiliar o desenvolvimento humano. </p>
+
 
 # Trabalhos Futuros
 > O que poderia ser melhorado se houvesse mais tempo?
